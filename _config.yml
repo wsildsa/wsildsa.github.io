@@ -4,8 +4,8 @@ chapter:
   instagram: "https://www.instagram.com/wsildsa"
   twitter:
   # Override DSA national logos
-  header-logo-svg:
-  header-logo-png-fallback: # 360px square recommended
+  header-logo-svg: assets/images/wsil-logo.svg 
+  header-logo-png-fallback: assets/images/wsil-logo.png # 360px square recommended
   background-logo-svg:
   background-logo-png-fallback: # 1440px square recommended
 google_analytics:
