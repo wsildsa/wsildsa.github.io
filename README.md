@@ -9,4 +9,5 @@
 - [ ] Staging Branch
 - [x] Add WSIL background logo
 - [ ] Add frontpage image
-- [ ] Add image of coverage map for the chapter
+- [x] Add image of coverage map for the chapter
+- [ ] Calender Subscription Tutorial
