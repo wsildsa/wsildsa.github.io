@@ -1,0 +1,34 @@
+{% capture imageBackground %}
+{% if site.jekyll_webp_installed %}
+	<div class="image cover-background" style="background-image: url('{{ include.image | replace:.png','.webp' | replace:'.jpg','.webp'}}');" aria-label="{{ include.image-description }}">
+		<div class="overlay"></div>
+	</div>
+{% else %}
+	<div class="image cover-background" style="background-image: url('{{ include.image }}');" aria-label="{{ include.image-description }}">
+		<div class="overlay"></div>
+	</div>
+{% endif %}
+{% endcapture %}
+{% capture colorBackground %}
+	<div class="color-background"></div>
+{% endcapture %}
+{% if item.image != site.defaults[0].values.image %}
+	{% assign tileClass = "tile-container-image" %}
+	{% assign background = imageBackground %}
+{% else %}
+	{% assign tileClass = "tile-container-text" %}
+	{% assign background = colorBackground %}
+{% endif %}
+<li class="{{ tileClass }}">
+	<div class="column-fix">
+		<a href="{{ include.link }}">
+			{{ background }}
+			<div class="title">
+				<i class="fas fa-arrow-right"></i>
+				<h4>{{ include.title | markdownify | remove: "<p>" | remove: "</p>" }}
+					<div style="clear:both"></div>
+				</h4>
+			</div>
+		</a>
+	</div>
+</li>

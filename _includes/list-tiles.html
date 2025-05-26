@@ -1,0 +1,11 @@
+<ul class="tile-list">
+	{% assign sortedCollection = site.[include.collection] | where: "lang", page.lang | sort: "order" %}
+	{% assign limit = include.limit %}
+	{% for item in sortedCollection limit:limit %}
+		{% assign url = item.url | relative_url %}
+		{% assign image = item.image | relative_url %}
+		{% assign image-description = item.image-description | markdownify | remove: "<p>" | remove: "</p>" %}
+		{% include list-tiles-item.html title=item.title link=url image=image image-description=image-description %}
+	{% endfor %}
+	<div style="clear:both"></div>
+</ul>

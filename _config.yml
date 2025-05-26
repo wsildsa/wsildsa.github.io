@@ -1,0 +1,124 @@
+chapter:
+  url: "https://www.wsildsa.dsachapters.org"
+  facebook: "https://www.facebook.com/WSILDSA"
+  instagram: "https://www.instagram.com/wsildsa"
+  twitter: "https://x.com/WSILDSA"
+  # Override DSA national logos
+  header-logo-svg:
+  header-logo-png-fallback: # 360px square recommended
+  background-logo-svg:
+  background-logo-png-fallback: # 1440px square recommended
+google_analytics:
+teamup: cb7ef970fd2b7b1a85acd5a8a2ef6d7f77477648b0963c29c629391742f24c5a
+permalink: pretty
+plugins:
+  - jekyll-redirect-from
+  - jekyll-webp
+  - jekyll-paginate
+staging_url:
+jekyll_webp_installed: true
+
+# pagination settings
+paginate: 5
+paginate_path: "updates/page:num/"
+
+############################################################
+# Site configuration for the WebP Generator Plugin
+# The values here represent the defaults if nothing is set
+webp:
+  enabled: true
+
+  # The quality of the webp conversion 0 to 100 (where 100 is least lossy)
+  quality: 75
+
+  # List of directories containing images to optimize, nested directories will only be checked if `nested` is true
+  # By default the generator will search for a folder called `/img` under the site root and process all jpg, png and tiff image files found there.
+  img_dir: ["/assets/images/"]
+
+  # Whether to search in nested directories or not
+  nested: true
+
+  # add ".gif" to the format list to generate webp for animated gifs as well
+  formats: [".jpeg", ".jpg", ".png", ".tiff"]
+
+  # File extensions for animated gif files
+  gifs: [".gif"]
+
+  # Set to true to always regenerate existing webp files
+  regenerate: true
+
+  # Local path to the WebP utilities to use (relative or absolute)
+  # Omit or leave as nil to use the utilities shipped with the gem, override only to use your local install
+  webp_path: nil
+
+  # List of files or directories to exclude
+  # e.g. custom or hand generated webp conversion files
+  exclude: []
+
+  # append '.webp' to filename after original extension rather than replacing it.
+  # Default transforms `image.png` to `image.webp`, while changing to true transforms `image.png` to `image.png.webp`
+  append_ext: true
+############################################################
+
+# Set default front matter for Markdown files
+defaults:
+  - scope:
+      path: "" # All files
+    values:
+      lang: en
+      layout: default
+      image: assets/images/og-image.png # Social media preview
+
+  # Set redirects relative to base
+  - scope:
+      path: _redirect-to
+    values:
+      permalink: /:path
+
+  # Set URLs and language code for collections
+  # English
+  - scope:
+      path: _homepage/en/index.md
+    values:
+      permalink: / # Set as index
+  - scope:
+      path: _pages/en
+    values:
+      permalink: /:title
+  - scope:
+      path: _tiles/en
+    values:
+      permalink: tiles/:title
+  # Spanish
+  - scope:
+      path: _homepage/es/index.md
+    values:
+      permalink: /es/
+      lang: es
+  - scope:
+      path: _pages/es
+    values:
+      permalink: es/:title # language-specific folder
+      lang: es
+  - scope:
+      path: _tiles/es
+    values:
+      permalink: es/baldosas/:title # language-specific folder
+      lang: es
+
+# Manage lists of content with collections
+# https://jekyllrb.com/docs/collections/
+collections:
+  # Export redirects
+  redirect-to:
+    output: true
+  # Homepage translations
+  homepage:
+    output: true
+  # Add single pages in the _pages folder
+  pages:
+    output: true
+  tiles:
+    output: true
+  posts:
+    output: true

@@ -1,0 +1,35 @@
+# Supported languages
+en: English
+
+# Website info
+title:
+  en: WSIL DSA
+  es: Tema de Haymarket
+description:
+  en: The official website of the West Suburban IL chapter of the Democratic Socialists of America.
+  es: Un tema de Páginas de GitHub para lanzar fácilmente sitios web de DSA de Chicago.
+chapter-name:
+  en: WSIL DSA
+  es: Su Capítulo de DSA
+
+# Join DSA button
+join:
+  text:
+    en: Join DSA
+    es: Hazte miembrx de DSA
+  url: # Override DSA national link
+    default: # Apply a link to all languages
+    en: # Or define specific values
+
+# Footer
+follow-us:
+  en: Follow us on social media
+  es: Síguenos en las redes sociales
+back-to-top:
+  en: Back to top
+  es: Volver arriba
+
+# Other content
+photo:
+  en: Photo
+  es: Foto

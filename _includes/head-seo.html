@@ -1,0 +1,68 @@
+{% if page.title %}
+	{%- capture title -%}
+		{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }} | {{ site.data.translations.title.[page.lang] | default: site.github.repository_name | markdownify | remove: "<p>" | remove: "</p>" }}
+	{%- endcapture -%}
+	<title>{{ title | strip_newlines }}</title>
+{% else %}
+	{%- capture title -%}
+		{{ site.data.translations.title.[page.lang] | default: site.github.repository_name | markdownify | remove: "<p>" | remove: "</p>" }} | {{ site.data.translations.description.[page.lang] | default: site.github.project_tagline | markdownify | remove: "<p>" | remove: "</p>" }}
+	{%- endcapture -%}
+	<title>{{ title | strip_newlines }}</title>
+{% endif %}
+<!-- Make sure staging site is not listed -->
+
+{% if site.staging_url %}
+	<script>
+		if (window.location.hostname === "{{ site.staging_url }}") {
+			let metaEl = document.createElement('meta');
+			metaEl.name = 'robots';
+			metaEl.content = 'noindex'
+			document.head.appendChild(metaEl);
+		}
+	</script>
+{% endif %}
+
+<!-- Set title based on conditionals -->
+<meta property="og:title" content="{{ title | strip_newlines }}" />
+
+<!-- Locale -->
+<meta property="og:locale" content="{{ page.lang }}" />
+
+{% if page.description %}
+	{%- capture description -%}
+		{{ page.description | markdownify | remove: "<p>" | remove: "</p>" }}
+	{%- endcapture -%}
+{% else %}
+	{%- capture description -%}
+		{{ site.data.translations.description.[page.lang] | default: site.github.project_tagline | markdownify | remove: "<p>" | remove: "</p>" }}
+	{%- endcapture -%}
+{% endif %}
+
+<!-- Set descriptions based on conditionals -->
+<meta name="description" content="{{ description | strip_newlines }}" />
+<meta property="og:description" content="{{ description | strip_newlines }}" />
+
+<!-- URLs -->
+<link rel="canonical" href="{{ page.url | absolute_url }}" />
+<meta property="og:url" content="{{ page.url | absolute_url }}" />
+
+{% if site.data.translations.title.[page.lang] %}
+	{%- capture siteName -%}
+		{{ site.data.translations.title.[page.lang] | markdownify | remove: "<p>" | remove: "</p>" }}
+	{%- endcapture -%}
+{% else %}
+	{%- capture siteName -%}
+		{{ site.data.translations.title.[page.lang] | default: site.github.repository_name | markdownify | remove: "<p>" | remove: "</p>" }}
+	{%- endcapture -%}
+{% endif %}
+
+<meta property="og:site_name" content="{{ siteName | strip_newlines }}" />
+<meta property="og:image" content="{{ page.image | absolute_url }}" />
+
+{% if page.image == "assets/images/og-image.png" %}
+	<!-- Small Twitter preview for default logo -->
+	<meta name="twitter:card" content="summary">
+{% else %}
+	<!-- Large Twitter preview for custom images -->
+	<meta name="twitter:card" content="summary_large_image">
+{% endif %}

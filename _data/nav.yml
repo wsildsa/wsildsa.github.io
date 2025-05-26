@@ -1,0 +1,35 @@
+menu:
+  en: Menu
+  es: Menú
+
+elements:
+  - page:
+      en: Home
+      es: Agrega navegación
+      url: 
+        default: # Apply a link to all languages
+        en: index
+        es: es/otra-pagina
+  - page:
+      en: About Us
+      url:
+        default: about
+        en: about
+  - page:
+      en: Events
+      url:
+        default: events
+        en: events
+
+# Groups
+#  - group:
+#    en: Another group
+#    es: Otro grupo
+#    pages:
+#      - page:
+#          en: Use Markdown *styling*
+#          es: Utiliza Markdown *estilo*
+#          url:
+#            en: another-page
+#            es: es/otra-pagina
+        

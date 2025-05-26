@@ -1,0 +1,25 @@
+<nav id="desktop-menu" role="navigation">
+	<ul>
+		{% for element in site.data.nav.elements %}
+			{% if element.pages %}
+				<li class="desktop-menu-group">
+					<a class="desktop-menu-header" href="#" aria-haspopup="true">{{ element.[page.lang] | markdownify | remove: "<p>" | remove: "</p>" | strip_newlines }}<i class="fas fa-angle-down"></i></a>
+					<div class="desktop-hover-helper">
+						<ul aria-label="submenu">
+							{% for item in element.pages %}
+							<li>
+								<a href="{{ item.page.url.[page.lang] | default: item.page.url.default | relative_url }}">{{ item.page.[page.lang] | default: item.page.en | markdownify | remove: "<p>" | remove: "</p>" | strip_newlines }}</a>
+							</li>
+							{% endfor %}
+						</ul>
+					</div>
+				</li>
+			{% else %}
+				<li class="single-menu-item">
+					<a href="{{ element.page.url.[page.lang] | default: element.page.url.default | relative_url }}">{{ element.page.[page.lang] | markdownify | remove: "<p>" | remove: "</p>" | strip_newlines }}</a>
+				</li>
+			{% endif %}
+		{% endfor %}
+	</ul>
+</nav>
+<div style="clear: both;"></div> 

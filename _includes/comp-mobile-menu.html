@@ -1,0 +1,30 @@
+<nav id="mobile-menu" role="navigation">
+	<div id="mobile-menu-icon">
+		<a href="#" aria-haspopup="true">
+			<i class="fas fa-bars"></i>
+			<p>{{ site.data.nav.menu.[page.lang] | markdownify | remove: "<p>" | remove: "</p>" | strip_newlines }}</p>
+		</a>
+	</div>
+	<div id="mobile-hover-helper">
+		<div id="mobile-menu-content" aria-label="submenu">
+			{% for element in site.data.nav.elements %}
+				{% if element.pages %}
+					<div class="mobile-menu-group">
+						<li class="mobile-menu-header">{{ element.[page.lang] | markdownify | remove: "<p>" | remove: "</p>" | strip_newlines }}</li>
+						<ul>
+							{% for item in element.pages %}
+								<li>
+									<a href="{{ item.page.url.[page.lang] | default: item.page.url.default | relative_url }}">{{ item.page.[page.lang] | default: item.page.en | markdownify | remove: "<p>" | remove: "</p>" | strip_newlines }}</a>
+								</li>
+							{% endfor %}
+						</ul>
+					</div>
+				{% else %}
+					<div class="single-menu-item">
+						<a href="{{ element.page.url.[page.lang] | default: element.page.url.default | relative_url }}">{{ element.page.[page.lang] | markdownify | remove: "<p>" | remove: "</p>" | strip_newlines }}</a>
+					</div>
+				{% endif %}
+			{% endfor %}
+		</div>
+	</div>
+</nav>

@@ -1,0 +1,10 @@
+<div class="image-caption">
+	{% if include.description %}
+		{{ include.description | markdownify }}
+	{% endif %}
+	{% if include.credit %}
+		<p class="image-credit">
+			{{- site.data.translations.photo.[page.lang] | markdownify | remove: "<p>" | remove: "</p>" | strip_newlines }}: {{ include.credit | markdownify | remove: "<p>" | remove: "</p>" | strip_newlines -}}
+		</p>
+	{% endif %}
+</div>
