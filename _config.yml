@@ -2,7 +2,7 @@ chapter:
   url: "https://www.wsildsa.dsachapters.org"
   facebook: "https://www.facebook.com/WSILDSA"
   instagram: "https://www.instagram.com/wsildsa"
-  twitter: "https://x.com/WSILDSA"
+  twitter:
   # Override DSA national logos
   header-logo-svg:
   header-logo-png-fallback: # 360px square recommended
