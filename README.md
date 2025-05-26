@@ -1,7 +1,11 @@
-# chapter_website
+# WSIL DSA Chapter Website
 
 
 ## TODO
-* Add WSIL logo
-* Remove Language Selector
-* Figure out news/posts
+[x] Add WSIL logo
+[x] Remove Language Selector
+[x] Figure out news/posts
+[ ] Staging Branch
+[ ] Add WSIL background logo
+[ ] Add frontpage image
+[ ] Add image of coverage map for the chapter
