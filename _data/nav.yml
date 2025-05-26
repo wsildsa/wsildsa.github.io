@@ -20,6 +20,11 @@ elements:
       url:
         default: events
         en: events
+  - page:
+      en: News
+      url:
+        default: updates
+        en: updates
 
 # Groups
 #  - group:
