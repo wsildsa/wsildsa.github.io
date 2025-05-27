@@ -11,3 +11,4 @@
 - [ ] Add frontpage image
 - [x] Add image of coverage map for the chapter
 - [ ] Calender Subscription Tutorial
+- [ ] Re-implement loadCalendar javascript function for Google Calendar
