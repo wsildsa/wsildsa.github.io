@@ -21,4 +21,4 @@ The Counties that can be found in our region will be:
 - Kendall County
 - Northern Will County
 
-<iframe src="https://www.google.com/maps/d/embed?mid=148yUva2QKrB6j3g7o21SwyBrYm21MTvD&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=148yUva2QKrB6j3g7o21SwyBrYm21MTvD&ehbc=2E312F" width="100%" height="480"></iframe>
