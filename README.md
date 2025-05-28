@@ -1,12 +1,14 @@
 # WSIL DSA Chapter Website
 
-[Deployed Site](https://wsildsa.github.io/index)
+[Deployed Site](https://wsildsa.github.io)
+
+[Staging Site](https://wsildsa-staging.netlify.app)
 
 ## TODO
 - [x] Add WSIL logo
 - [x] Remove Language Selector
 - [x] Figure out news/posts
-- [ ] Staging Branch
+- [x] Staging Branch
 - [x] Add WSIL background logo
 - [ ] Add frontpage image
 - [x] Add image of coverage map for the chapter
