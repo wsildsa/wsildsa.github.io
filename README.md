@@ -1,6 +1,7 @@
 # WSIL DSA Chapter Website
 
-[Deployed Site](https://wsildsa.github.io/index)
+[Deployed Site](https://wsildsa.github.io)
+[Staging Site](https://wsildsa-staging.netlify.app)
 
 ## TODO
 - [x] Add WSIL logo
