@@ -8,7 +8,7 @@ subhead: <!-- optional display text -->
 
 # Subscribe to the calendar on iPhone/iOS
 
-<input type="text" value="https://calendar.google.com/calendar/ical/6f34b245a131d9734d6922f3b89a34ef8d4a8d61ebd21900f681cfce1829b389%40group.calendar.google.com/public/basic.ics" id="iCalLink">
+iCal URL: <input type="text" value="https://calendar.google.com/calendar/ical/6f34b245a131d9734d6922f3b89a34ef8d4a8d61ebd21900f681cfce1829b389%40group.calendar.google.com/public/basic.ics" id="iCalLink" size="50" readonly="true">
 
 <script>
     function copyFunction() {
