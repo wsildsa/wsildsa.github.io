@@ -30,10 +30,20 @@ subhead: <!-- optional display text -->
 - Open Settings
 - Scroll down and click Apps
 - Open Calendar Settings
+
+![Calendar Accounts](assets/images/ios-cal-1.png)
 - Tap "Calendar Accounts"
+
+![Calendar Accounts](assets/images/ios-cal-2.png)
 - Tap "Add Account"
+
+![Calendar Accounts](assets/images/ios-cal-3.png)
 - Tap "Other"
+
+![Calendar Accounts](assets/images/ios-cal-4.png)
 - Tap "Add Subscribed Calendar"
 - Paste the URL you copied
+
+![Calendar Accounts](assets/images/ios-cal-5.png)
 - Choose whether to allow alerts
 - Save new calendar
