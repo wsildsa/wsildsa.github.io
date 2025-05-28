@@ -1,4 +1,31 @@
-function loadCalendar(calendar, key, limit, lang) {
+//import GCalendarParser from "./g-calendar-parser.js";
+
+async function loadCalendarGoogle(calendar, key, limit, lang) {
+  try {
+	const gcal = await import("./g-calendar-fetcher.js");
+    // Create a new instance of GCalendarParser
+    const parser = new gcal.default({
+      url: "https://gcal-cors-proxy-three.vercel.app/api/calendar?url=https://calendar.google.com/calendar/ical/6f34b245a131d9734d6922f3b89a34ef8d4a8d61ebd21900f681cfce1829b389%40group.calendar.google.com/public/basic.ics",
+      amountOfPastEvents: 4, // Specify the number of past events to retrieve (-1 for all events)
+    });
+
+    // Fetch and parse the calendar events
+    const events = await parser.fetchEvents();
+
+    // Use the parsed events
+    console.log(events);
+    // Further processing or rendering
+    // ...
+  } catch (error) {
+    console.error("Error fetching or parsing calendar events:", error);
+    // Handle the error appropriately
+    // ...
+  }
+}
+
+/*
+
+function loadCalendarGoogle(calendar, key, limit, lang) {
 	// Get parent element of current script
 	var scripts = document.getElementsByTagName("script");
 	currentScript = scripts[scripts.length - 1];
@@ -141,3 +168,4 @@ function loadCalendar(calendar, key, limit, lang) {
 		}
 	);
 };
+*/

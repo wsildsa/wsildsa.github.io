@@ -9,7 +9,8 @@ chapter:
   background-logo-svg: assets/images/wsil-logo.svg
   background-logo-png-fallback: # 1440px square recommended
 google_analytics:
-teamup: cb7ef970fd2b7b1a85acd5a8a2ef6d7f77477648b0963c29c629391742f24c5a
+teamup:
+google_cal: 6f34b245a131d9734d6922f3b89a34ef8d4a8d61ebd21900f681cfce1829b389@group.calendar.google.com
 permalink: pretty
 plugins:
   - jekyll-redirect-from
