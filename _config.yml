@@ -1,5 +1,5 @@
 chapter:
-  url: "https://wsil.dsachapters.org"
+  url:
   facebook: "https://www.facebook.com/WSILDSA"
   instagram: "https://www.instagram.com/wsildsa"
   twitter:
@@ -16,7 +16,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-webp
   - jekyll-paginate
-staging_url: "https://wsildsa-staging.netlify.app"
+staging_url: "wsildsa-staging.netlify.app"
 jekyll_webp_installed: true
 
 # pagination settings
