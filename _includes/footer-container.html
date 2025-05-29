@@ -21,6 +21,11 @@
 						<i class="fab fa-twitter"></i>
 					</a>
 				{% endif %}
+				{% if site.chapter.bsky %}
+					<a id="bsky" class="social" href="{{ site.chapter.bsky }}" aria-label="Blue Sky">
+						<i class="fab fa-bsky"></i>
+					</a>
+				{% endif %}
 				<div style="clear: both;"></div> 
 			</div>
 			<p id="back-to-top">{{ backToTopContent }}</p>
