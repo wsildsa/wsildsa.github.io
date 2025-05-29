@@ -3,6 +3,7 @@ chapter:
   facebook: "https://www.facebook.com/WSILDSA"
   instagram: "https://www.instagram.com/wsildsa"
   twitter:
+  bsky: "https://bsky.app/profile/wsil.dsachapters.org"
   # Override DSA national logos
   header-logo-svg: assets/images/wsil-logo.svg 
   header-logo-png-fallback: assets/images/wsil-logo.png # 360px square recommended
