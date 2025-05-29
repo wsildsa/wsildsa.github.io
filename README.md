@@ -1,6 +1,6 @@
 # WSIL DSA Chapter Website
 
-[Deployed Site](https://wsildsa.github.io)
+[Deployed Site](https://wsil.dsachapters.org)
 
 [Staging Site](https://wsildsa-staging.netlify.app)
 
