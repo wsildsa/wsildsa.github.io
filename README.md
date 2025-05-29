@@ -16,7 +16,7 @@
 - [ ] add public facing email address as contact info
 - [ ] add fake mailing list signup that just takes you to dsausa.org/join
 - [x] create bsky acocunt and add link in socials section
-- [ ] add post under news for meet your allies event
+- [x] add post under news for meet your allies event
 - [ ] create chapter signal account and add link in socials section
 - [x] fix calendar embed scaling on mobile
 - [x] Calender Subscription Tutorial
