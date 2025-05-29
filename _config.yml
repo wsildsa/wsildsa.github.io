@@ -1,8 +1,9 @@
 chapter:
-  url: "https://wsildsa.github.io"
+  url:
   facebook: "https://www.facebook.com/WSILDSA"
   instagram: "https://www.instagram.com/wsildsa"
   twitter:
+  bsky: "https://bsky.app/profile/wsil.dsachapters.org"
   # Override DSA national logos
   header-logo-svg: assets/images/wsil-logo.svg 
   header-logo-png-fallback: assets/images/wsil-logo.png # 360px square recommended
@@ -15,7 +16,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-webp
   - jekyll-paginate
-staging_url:
+staging_url: "wsildsa-staging.netlify.app"
 jekyll_webp_installed: true
 
 # pagination settings

@@ -8,17 +8,22 @@
 				<h6>{{ site.data.translations.follow-us.[page.lang] | markdownify | remove: "<p>" | remove: "</p>" | strip_newlines }}</h6>
 				{% if site.chapter.facebook %}
 					<a id="facebook" class="social" href="{{ site.chapter.facebook }}" aria-label="Facebook">
-						<i class="fab fa-facebook-f"></i>
+						<i class="fa-brands fa-facebook-f"></i>
 					</a>
 				{% endif %}
 				{% if site.chapter.instagram %}
 					<a id="instagram" class="social" href="{{ site.chapter.instagram }}" aria-label="Instagram">
-						<i class="fab fa-instagram"></i>
+						<i class="fa-brands fa-instagram"></i>
 					</a>
 				{% endif %}
 				{% if site.chapter.twitter %}
 					<a id="twitter" class="social" href="{{ site.chapter.twitter }}" aria-label="Twitter">
-						<i class="fab fa-twitter"></i>
+						<i class="fa-brands fa-twitter"></i>
+					</a>
+				{% endif %}
+				{% if site.chapter.bsky %}
+					<a id="bsky" class="social" href="{{ site.chapter.bsky }}" aria-label="Blue Sky">
+						<i class="fa-brands fa-bluesky"></i>
 					</a>
 				{% endif %}
 				<div style="clear: both;"></div> 
