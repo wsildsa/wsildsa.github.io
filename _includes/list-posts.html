@@ -3,7 +3,11 @@
 	{% assign limit = include.limit %}
 	{% for item in sortedCollection limit:limit %}
 		{% assign url = item.url | relative_url %}
+{% if site.jekyll_webp_installed %}
+		{% assign image = item.image | replace:'.png','.webp' | replace:'.jpg','.webp' | relative_url %}
+{% else %}
 		{% assign image = item.image | relative_url %}
+{% endif %}
 		{% assign image-description = item.image-description | markdownify | remove: "<p>" | remove: "</p>" %}
 		{% include list-tiles-item.html title=item.title link=url image=image image-description=image-description %}
 	{% endfor %}
