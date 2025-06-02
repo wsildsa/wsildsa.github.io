@@ -1,6 +1,6 @@
 # WSIL DSA Chapter Website
 
-[Deployed Site](https://wsildsa.github.io)
+[Deployed Site](https://wsil.dsachapters.org)
 
 [Staging Site](https://wsildsa-staging.netlify.app)
 
@@ -60,6 +60,7 @@ bundle exec jekyll serve --livereload
 - [x] fix calendar embed scaling on mobile
 - [x] Calender Subscription Tutorial
 - [ ] Re-implement loadCalendar javascript function for Google Calendar
+- [ ] Fix jekyll-webp on github-pages deployment (Github-Pages uses Jekyll v4 but jekyll-webp requires v3)
 
 ## Acknowledgments
 Thanks to our comrades at Chicago DSA for the [Haymarket theme](https://github.com/ChicagoDSA/haymarket)
