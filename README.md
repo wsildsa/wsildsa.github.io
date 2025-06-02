@@ -24,7 +24,7 @@ source ~/.bashrc
 
 #### Install gems
 ```bash
-gem install jekyll bundler github-pages
+gem install jekyll bundler
 ```
 
 #### Clone Repo to a directory of your choice
