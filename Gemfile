@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem 'logger', '~> 1.7'
-gem 'erb', '~> 5.0', '>= 5.0.1'
+gem 'erb', '~> 4.0', '>= 4.0.4'
 gem 'jekyll-paginate', '~> 1.1'
 gem 'jekyll-redirect-from'
 gem 'jekyll-webp', group: :jekyll_plugins
