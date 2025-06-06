@@ -16,6 +16,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-webp
   - jekyll-paginate
+  - jekyll-sitemap
 staging_url: "wsildsa-staging.netlify.app"
 jekyll_webp_installed: true
 
