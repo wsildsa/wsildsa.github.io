@@ -10,12 +10,14 @@ chapter:
   background-logo-svg: assets/images/wsil-logo.svg
   background-logo-png-fallback: # 1440px square recommended
 google_analytics:
+google_search_console_verification: "aBtC59pBF-AKCfQ65x2Jp6Yb4DqvI6sHUaBS14H0O4w"
 teamup: cb7ef970fd2b7b1a85acd5a8a2ef6d7f77477648b0963c29c629391742f24c5a
 permalink: pretty
 plugins:
   - jekyll-redirect-from
   - jekyll-webp
   - jekyll-paginate
+  - jekyll-sitemap
 staging_url: "wsildsa-staging.netlify.app"
 jekyll_webp_installed: true
 
