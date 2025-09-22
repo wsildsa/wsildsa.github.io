@@ -139,12 +139,12 @@ a {
 
   #headline-image {
     height: 24rem;
-    border-left: 1rem solid variables.$dsa-red;
+    /*border-left: 1rem solid variables.$dsa-red;*/
   }
 
   #headline-image-webp {
     height: auto;
-    border-left: 1rem solid variables.$dsa-red;
+    /*border-left: 1rem solid variables.$dsa-red;*/
   }
 
   @include small {
