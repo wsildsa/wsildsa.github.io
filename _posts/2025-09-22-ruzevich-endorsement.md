@@ -2,7 +2,7 @@
 lang-ref: ruzevich-endorsement
 title: "WSIL DSA Endorses Joey Ruzevich for House in the IL-06"
 description: September 22nd, 2025
-image: assets/images/ruzevich-endorsement.jpeg
+image: assets/images/ruzevich-endorsement.jpg
 image-description:
 ---
 
