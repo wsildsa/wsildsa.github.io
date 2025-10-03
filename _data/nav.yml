@@ -25,6 +25,11 @@ elements:
       url:
         default: updates
         en: updates
+  - page:
+      en: Electoral
+      url:
+        default: electoral
+        en: electoral
 
 # Groups
 #  - group:
