@@ -8,4 +8,10 @@
 		<a href="{{ joinURL }}">{{ site.data.translations.join.text.[page.lang] | markdownify | remove: "<p>" | remove: "</p>" | strip_newlines }}</a>
 	</div>
 </div>
+<div id="top-buttons">
+	<div id="donate">
+		{% assign donateURL = "https://square.link/u/xZNjgIVi" %}
+		<a href="{{ donateURL }}">{{ "Donate" | markdownify | remove: "<p>" | remove: "</p>" | strip_newlines }}</a>
+	</div>
+</div>
 <div style="clear: both;"></div>

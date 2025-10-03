@@ -343,6 +343,7 @@ a,
 
     #top-buttons ul li,
     #top-buttons #join,
+    #top-buttons #donate,
     .mobile-menu-group ul li,
     .single-menu-item,
     #desktop-menu ul,
@@ -376,11 +377,13 @@ a,
       border-radius: 0 0 0.25rem 0.25rem;
 
       ul,
+      #donate,
       #join {
         display: table-cell;
       }
 
       ul li,
+      #donate,
       #join {
         padding: 0.125rem 0.5rem;
         white-space: nowrap;
@@ -409,6 +412,14 @@ a,
 
         a {
           color: variables.$white;
+        }
+      }
+
+      #donate {
+        background-color: variables.$dsa-yellow;
+
+        a {
+          color: variables.$dsa-red;
         }
       }
     }
