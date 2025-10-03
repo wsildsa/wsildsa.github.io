@@ -70,7 +70,7 @@ defaults:
     values:
       lang: en
       layout: default
-      image: assets/images/og-image.png # Social media preview
+      image: assets/images/wsil-dsa-image-social-preview.png # Social media preview
 
   # Set redirects relative to base
   - scope:
