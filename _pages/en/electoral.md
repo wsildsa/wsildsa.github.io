@@ -15,7 +15,7 @@ Our members democratically decide on campaigns we endorse in each election cycle
 
 1. Candidates seeking endorsement must fill out and return a candidate questionnaire to the Electoral Working Group.  The questionnaire can be requested by emailing the WSIL DSA Electoral Working Group at [wsil.electoral@proton.me](mailto:wsil.electoral@proton.me).
 
-2. The Electoral Working Group reviews candidate questionnaires and then votes on whether to bring each candidate in for an interview.
+2. The Electoral Working Group reviews candidate questionnaires and follows up with the candidate as needed.
 
 3. The Electoral Working Group then votes on whether to advance interviewed candidates to the general membership for a vote on endorsement.  If so, the candidate will be invited to the next general chapter meeting to give their pitch to the general membership.
 
