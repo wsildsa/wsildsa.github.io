@@ -17,6 +17,6 @@ Our members democratically decide on campaigns we endorse in each election cycle
 
 2. The Electoral Working Group reviews candidate questionnaires and follows up with the candidate as needed.
 
-3. The Electoral Working Group then votes on whether to advance interviewed candidates to the general membership for a vote on endorsement.  If so, the candidate will be invited to the next general chapter meeting to give their pitch to the general membership.
+3. The Electoral Working Group then votes on whether to advance interviewed candidates to the general membership for a vote on endorsement.  If so, the candidate will be invited to the next general chapter meeting to give their pitch to the general membership and answer any questions from the Electoral Working Group and membership.
 
 4. Finally, the entire chapter votes on endorsement, after which candidates are notified of the result.
