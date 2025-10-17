@@ -4,7 +4,7 @@
 	<body>
 		{% include header-container.html %}
 		{% if page.image != site.defaults[0].values.image %}
-			{% include header-image.html image=page.image description=page.image-description credit=page.image-credit %}
+			{% include header-image.html image=page.image description=page.image-description credit=page.image-credit hide=page.image-hide %}
 		{% endif %}
 		<main id="main-content" role="main">{{ content }}</main>
 		{% include footer-container.html %}
