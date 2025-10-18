@@ -16,7 +16,7 @@ Ben McAdams is a candidate who will fight back against the Trump administration'
 
 ## Satnaam Mago for IL State Senate in the 33rd District
 ![WSIL DSA Endorses Satnaam Mago for IL Senate in the 33rd](assets/images/satnaam-endorsement.png)
-[Satnaam Singh Mago](https://www.letsgomago.com/) is a freight broker who understands how interconnected all of our labor is. As a current alternate delegate for the DuPage county democrats, he has seen how corporate PAC influence has corrupted the Democratic Party by shifting them away from their working class priorities. He believes education, healthcare, housing and food are human rights and when elected will champion a proposal to expand vocational and educational course offerings at community colleges, so students can obtain a 4 year bachelor's degree at community colleges for less than it costs for one semester at U of I. Satnaam also believes our Illinois pension plan investments should not be going to finance the genocide in Palestine, but instead to small businesses as a means to protect employee paychecks while allowing the small businesses to grow.
+[Satnaam](https://www.letsgomago.com/) isn't taking any corporate money because it ends up being a bribe. We must keep our communities safe from ICE, make sure all community colleges offer more vocational training as well as 4 year degrees with increased course offerings to lower tuition across the board, and our state pension plan is no longer invested in Israeli bonds, rather invested in small businesses as they're connected to the working class in ways that big businesses aren't.
 
 ## Joey Ruzevich for Illinois 6th Congressional
 ![WSIL DSA Endorses Joey Ruzevich for Illinois 6th Congressional](assets/images/ruzevich-endorsement.png)
