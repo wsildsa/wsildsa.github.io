@@ -12,7 +12,9 @@ description:
 
 ## Ben McAdams for IL State Senate in the 24th District
 ![WSIL DSA Endorses Ben McAdams for IL Senate in the 24th](assets/images/ben-endorsement.png)
-Ben McAdams is a candidate who will fight back against the Trump administration's use of the national guard to occupy Illinois.  Ben will be the leader we need, someone who will fight to keep ICE out of our communities.  Ben is a strong supporter of universal healthcare and will work to ensure that the state invests in publich healthcare for communities across Illinois.
+Ben is a lifelong resident of Illinois and the Chicagoland area. Growing up in Lombard, Ben attended College of DuPage before transferring to Elmhurst University (then college) where he double majored in Finance and Economics. While in college Ben became involved with local activism and went on to become a community organizer after graduation. During the Covid-19 pandemic, Ben began law school at DePaul University’s College of Law. In law school he focused his studies on Public Interest Law, becoming a member of the school’s Society for Asylum and Immigration Law (SAIL), and earning an award for the highest grade in his Civil Rights Law class. While at DePaul Ben worked for several legal non-profit organizations including the National Immigrant Justice Center, and Citizen Advocacy Center.
+
+Ben believes in creating an Illinois where all residents can afford the basic necessities of life, such as healthcare and housing, without feeling economic anxiety. He believes in creating communities where everyone can live safe and fulfilling lives regardless of where they were born or where they come from.
 
 ## Satnaam Mago for IL State Senate in the 33rd District
 ![WSIL DSA Endorses Satnaam Mago for IL Senate in the 33rd](assets/images/satnaam-endorsement.png)
