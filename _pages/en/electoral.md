@@ -12,7 +12,7 @@ description:
 
 ## Ben McAdams for IL State Senate in the 24th District
 ![WSIL DSA Endorses Ben McAdams for IL Senate in the 24th](assets/images/ben-endorsement.png)
-We are proud to endorse West Suburban IL Democratic Socialist of America member, Ben McAdams in the 24th district.
+We are proud to endorse West Suburban IL Democratic Socialists of America member, Ben McAdams in the 24th district.
 
 Ben is a lifelong resident of Illinois and the Chicagoland area. Growing up in Lombard, Ben attended College of DuPage before transferring to Elmhurst University (then college) where he double majored in Finance and Economics. While in college Ben became involved with local activism and went on to become a community organizer after graduation. During the Covid-19 pandemic, Ben began law school at DePaul University’s College of Law. In law school he focused his studies on Public Interest Law, becoming a member of the school’s Society for Asylum and Immigration Law (SAIL), and earning an award for the highest grade in his Civil Rights Law class. While at DePaul Ben worked for several legal non-profit organizations including the National Immigrant Justice Center, and Citizen Advocacy Center.
 
@@ -20,7 +20,7 @@ Ben believes in creating an Illinois where all residents can afford the basic ne
 
 ## Satnaam Mago for IL State Senate in the 33rd District
 ![WSIL DSA Endorses Satnaam Mago for IL Senate in the 33rd](assets/images/satnaam-endorsement.png)
-We are proud to endorse West Suburban IL Democratic Socialist of America member, Satnaam Mago in the 33rd district.
+We are proud to endorse West Suburban IL Democratic Socialists of America member, Satnaam Mago in the 33rd district.
 
 [Satnaam](https://www.letsgomago.com/) isn't taking any corporate money because it ends up being a bribe. We must keep our communities safe from ICE, make sure all community colleges offer more vocational training as well as 4 year degrees with increased course offerings to lower tuition across the board, and our state pension plan is invested in Illinois rather than Israeli bonds.
 
