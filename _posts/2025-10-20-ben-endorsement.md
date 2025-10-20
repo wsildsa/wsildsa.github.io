@@ -1,7 +1,7 @@
 ---
 lang-ref: october-endorsements
 title: "WSIL DSA endorses Ben McAdams for IL State Senate in the 24th District"
-description: October 17th, 2025
+description: October 20th, 2025
 image: assets/images/ben-endorsement.png
 image-description:
 ---

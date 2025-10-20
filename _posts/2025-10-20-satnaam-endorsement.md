@@ -1,7 +1,7 @@
 ---
 lang-ref: october-endorsements
 title: "WSIL DSA endorses Satnaam Mago for IL State Senate in the 33rd District"
-description: October 17th, 2025
+description: October 20th, 2025
 image: assets/images/satnaam-endorsement.png
 image-description:
 ---

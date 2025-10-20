@@ -1,7 +1,7 @@
 ---
 lang-ref: october-endorsements
 title: "WSIL DSA endorses Junaid Ahmed for House in the IL-08"
-description: October 17th, 2025
+description: October 20th, 2025
 image: assets/images/junaid-endorsement.png
 image-description:
 ---
