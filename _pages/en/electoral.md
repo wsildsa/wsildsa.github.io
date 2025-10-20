@@ -18,7 +18,7 @@ Ben believes in creating an Illinois where all residents can afford the basic ne
 
 ## Satnaam Mago for IL State Senate in the 33rd District
 ![WSIL DSA Endorses Satnaam Mago for IL Senate in the 33rd](assets/images/satnaam-endorsement.png)
-[Satnaam](https://www.letsgomago.com/) isn't taking any corporate money because it ends up being a bribe. We must keep our communities safe from ICE, make sure all community colleges offer more vocational training as well as 4 year degrees with increased course offerings to lower tuition across the board, and our state pension plan is no longer invested in Israeli bonds, rather invested in small businesses as they're connected to the working class in ways that big businesses aren't.
+[Satnaam](https://www.letsgomago.com/) isn't taking any corporate money because it ends up being a bribe. We must keep our communities safe from ICE, make sure all community colleges offer more vocational training as well as 4 year degrees with increased course offerings to lower tuition across the board, and our state pension plan is invested in Illinois rather than Israeli bonds.
 
 ## Joey Ruzevich for Illinois 6th Congressional
 ![WSIL DSA Endorses Joey Ruzevich for Illinois 6th Congressional](assets/images/ruzevich-endorsement.png)
