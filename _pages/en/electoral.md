@@ -8,7 +8,7 @@ description:
 
 ## Junaid Ahmed for Illinois 8th Congressional District
 ![WSIL DSA Endorses Junaid Ahmed for Illinois 8th Congressional](assets/images/junaid-endorsement.png)
-[Junaid Ahmed](https://junaidforus.com/) is a husband, father of two, DePaul graduate, immigrant, and proud llinoisian who has given back to his community throughout his life. During the pandemic, he founded the non-profit Chi-Care to deliver hot meals and supplies to our unhoused neighbors. Junaid Ahmed is a democratic socialist and when elected, he will fight against the current, crumbling system which enriches the top 1% at the cost of the working class. Junaid is committed to bringing down the cost of healthcare and work towards universal healthcare, to a comprehensive arms embargo of Israel, and to defending immigrant and queer communities from the Trump regime.
+[Junaid Ahmed](https://junaidforus.com/) is a husband, father of four, DePaul graduate, immigrant, and proud llinoisian who has given back to his community throughout his life. During the pandemic, he founded the non-profit Chi-Care to deliver hot meals and supplies to our unhoused neighbors. Junaid Ahmed is a democratic socialist and when elected, he will fight against the current, crumbling system which enriches the top 1% at the cost of the working class. Junaid is committed to bringing down the cost of healthcare and work towards universal healthcare, to a comprehensive arms embargo of Israel, and to defending immigrant and queer communities from the Trump regime.
 
 ## Ben McAdams for IL State Senate in the 24th District
 ![WSIL DSA Endorses Ben McAdams for IL Senate in the 24th](assets/images/ben-endorsement.png)
