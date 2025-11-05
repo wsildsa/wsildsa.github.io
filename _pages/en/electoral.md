@@ -10,6 +10,8 @@ description:
 ![WSIL DSA Endorses Junaid Ahmed for Illinois 8th Congressional](assets/images/junaid-endorsement.png)
 [Junaid Ahmed](https://junaidforus.com/) is a husband, father of four, DePaul graduate, immigrant, and proud llinoisian who has given back to his community throughout his life. During the pandemic, he founded the non-profit Chi-Care to deliver hot meals and supplies to our unhoused neighbors. Junaid Ahmed is a democratic socialist and when elected, he will fight against the current, crumbling system which enriches the top 1% at the cost of the working class. Junaid is committed to bringing down the cost of healthcare and work towards universal healthcare, to a comprehensive arms embargo of Israel, and to defending immigrant and queer communities from the Trump regime.
 
+{% include comp-button.html text="Visit Junaid's Site" link="https://junaidforus.com/" %}
+
 ## Ben McAdams for IL State Senate in the 24th District
 ![WSIL DSA Endorses Ben McAdams for IL Senate in the 24th](assets/images/ben-endorsement.png)
 We are proud to endorse West Suburban IL Democratic Socialists of America member, Ben McAdams in the 24th district.
@@ -18,15 +20,21 @@ Ben is a lifelong resident of Illinois and the Chicagoland area. Growing up in L
 
 Ben believes in creating an Illinois where all residents can afford the basic necessities of life, such as healthcare and housing, without feeling economic anxiety. He believes in creating communities where everyone can live safe and fulfilling lives regardless of where they were born or where they come from.
 
+{% include comp-button.html text="Donate to Ben" link="https://secure.actblue.com/donate/benmcadamsilsenate" %}
+
 ## Satnaam Mago for IL State Senate in the 33rd District
 ![WSIL DSA Endorses Satnaam Mago for IL Senate in the 33rd](assets/images/satnaam-endorsement.png)
 We are proud to endorse West Suburban IL Democratic Socialists of America member, Satnaam Mago in the 33rd district.
 
 [Satnaam](https://www.letsgomago.com/) isn't taking any corporate money because it ends up being a bribe. We must keep our communities safe from ICE, make sure all community colleges offer more vocational training as well as 4 year degrees with increased course offerings to lower tuition across the board, and our state pension plan is invested in Illinois rather than Israeli bonds.
 
+{% include comp-button.html text="Visit Satnaam's Site" link="https://www.letsgomago.com/" %}
+
 ## Joey Ruzevich for Illinois 6th Congressional
 ![WSIL DSA Endorses Joey Ruzevich for Illinois 6th Congressional](assets/images/ruzevich-endorsement.png)
 In September, members of the West Suburban Illinois DSA voted to endorse [Joey Ruzevich](https://www.joey4congress.com/) for IL-06. We believe he will fight for the changes the working class desperately need like universal healthcare, a living wage, immigration reform, and an end to genocide and war.
+
+{% include comp-button.html text="Visit Joey's Site" link="https://www.joey4congress.com/" %}
 
 # Overview of the WSIL DSA Endorsement Process
 Our members democratically decide on campaigns we endorse in each election cycles.  The process below roughly outlines the process.
