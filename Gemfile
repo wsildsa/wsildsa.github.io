@@ -1,5 +1,6 @@
 source "https://rubygems.org"
 
+gem 'sass-embedded', '= 1.93.2'
 gem 'logger', '~> 1.7'
 gem 'erb', '~> 4.0', '>= 4.0.4'
 gem 'jekyll-paginate', '~> 1.1'
