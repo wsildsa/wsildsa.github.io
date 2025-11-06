@@ -1,7 +1,7 @@
 ---
 lang-ref: dsa-lobby-day
 title: Illinois DSA Lobby Day
-description: 05/11/2025
+description: November 5th, 2025
 image: assets/images/dsa-lobby-day.jpg
 ---
 ![DSA Lobby Day #1](/assets/images/dsa-lobby-day-1.jpg)
