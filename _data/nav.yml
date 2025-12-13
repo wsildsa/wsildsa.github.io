@@ -30,6 +30,11 @@ elements:
       url:
         default: electoral
         en: electoral
+  - page:
+      en: Contact
+      url:
+        default: contact
+        en: contact
 
 # Groups
 #  - group:
