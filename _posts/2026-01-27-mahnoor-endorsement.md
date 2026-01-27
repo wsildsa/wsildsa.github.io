@@ -4,7 +4,7 @@ title: "WSIL DSA endorses Mahnoor Ahmad for DuPage County Board in District 2"
 description: January 27th, 2026
 image: assets/images/mahnoor.png
 ---
-At our January General Chapter Meeting, our members voted, and the results are in! The members of West Suburban IL Democratic Socialists of America have voted to endorse Mahnoor Ahmad for DuPage County Board in District 2. We have already scheduled canvassing events to help support our endorsed candidates on the ground. Check out our event calendar and RSVP today to join the fight against corporate interests and ensure our candidates win! 
+At our January General Chapter Meeting, our members voted, and the results are in! The members of West Suburban IL Democratic Socialists of America have voted to endorse Mahnoor Ahmad for DuPage County Board in District 2. We have already scheduled canvassing events to help support our endorsed candidates on the ground. Check out our [event calendar](/events) and RSVP today to join the fight against corporate interests and ensure our candidates win! 
 
 We are proud to endorse West Suburban IL Democratic Socialists of America member Mahnoor Ahmad in DuPage County Board District 2.
 
