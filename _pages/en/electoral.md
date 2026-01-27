@@ -22,13 +22,13 @@ Ben believes in creating an Illinois where all residents can afford the basic ne
 
 {% include comp-button.html text="Donate to Ben" link="https://secure.actblue.com/donate/benmcadamsilsenate" %}
 
-## Satnaam Mago for IL State Senate in the 33rd District
-![WSIL DSA Endorses Satnaam Mago for IL Senate in the 33rd](assets/images/satnaam-endorsement.png)
-We are proud to endorse West Suburban IL Democratic Socialists of America member, Satnaam Mago in the 33rd district.
+## Mahnoor Ahmad for DuPage County Board in District 2
+![WSIL DSA Endorses Satnaam Mago for IL Senate in the 33rd](assets/images/mahnoor.png)
+We are proud to endorse West Suburban IL Democratic Socialists of America member Mahnoor Ahmad in DuPage County Board District 2.
 
-[Satnaam](https://www.letsgomago.com/) isn't taking any corporate money because it ends up being a bribe. We must keep our communities safe from ICE, make sure all community colleges offer more vocational training as well as 4 year degrees with increased course offerings to lower tuition across the board, and our state pension plan is invested in Illinois rather than Israeli bonds.
+As a child of immigrants and a lifelong public health advocate, [Mahnoor Ahmad](https://mahnoorfordupage.com/) has seen firsthand the challenges that face the working class of DuPage County, such as rising housing costs and limited access to healthcare, especially mental healthcare. Mahnoor is committed to running a people-powered campaign and creating lasting change in the county, and she will fight for residents’ ability to manage the cost of living, protect their homes’ infrastructure, access healthcare, and more easily navigate county services.
 
-{% include comp-button.html text="Visit Satnaam's Site" link="https://www.letsgomago.com/" %}
+{% include comp-button.html text="Visit Mahnoor's Site" link="https://mahnoorfordupage.com/" %}
 
 ## Joey Ruzevich for Illinois 6th Congressional
 ![WSIL DSA Endorses Joey Ruzevich for Illinois 6th Congressional](assets/images/ruzevich-endorsement.png)
