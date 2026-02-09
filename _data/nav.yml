@@ -26,6 +26,11 @@ elements:
         default: updates
         en: updates
   - page:
+      en: 2026 Primary Voter Guide
+      url:
+        default: voter-guide-primary-2026
+        en: voter-guide-primary-2026
+  - page:
       en: Electoral
       url:
         default: electoral
