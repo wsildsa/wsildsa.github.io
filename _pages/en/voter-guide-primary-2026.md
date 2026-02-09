@@ -47,7 +47,7 @@ Morgon Coghill is a left ally running in a primary against the incumbent Brad Sc
 
 ## Illinois State House District 42
 ### Lynn LaPlante
-Lynn LaPlante is an ally of ours, attending many of the same events and protests, and a proud union member. She is stauchly anti-palestinian genocide, has multiple union endorsements, and has a long history of fighting for and supporting lower income people in her area with her organizaing skills. She has one opponent.
+Lynn LaPlante is an ally of ours, attending many of the same events and protests, and a proud union member. She is staunchly anti-palestinian genocide, has multiple union endorsements, and has a long history of fighting for and supporting lower income people in her area with her organizaing skills. She has one opponent.
 
 ## Illinois State House District 84
 ### Saba Haider
