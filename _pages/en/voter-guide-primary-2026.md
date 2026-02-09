@@ -41,7 +41,7 @@ An attendee of our 9th District Forum, Bushra set her focus on making sure our c
 
 ## Illinois Federal House District 10
 ### Morgon Coghill
-Morgon Coghill is a left ally running in a primary against the incumbent Brad Schneider. Brad seems to be a strong ally of the working class, taking no PAC money, and has a variety of left leaning endorsements, such as Lake County Greens, The Justice Coalition, and Citizens Against AIPAC. He backs progressive policies, such as medicare for all, the abolishment of ICE, and an even stronger Green New Deal.
+Morgon Coghill is a left ally running in a primary against the incumbent Brad Schneider. Morgon seems to be a strong ally of the working class, taking no PAC money, and has a variety of left leaning endorsements, such as Lake County Greens, The Justice Coalition, and Citizens Against AIPAC. He backs progressive policies, such as medicare for all, the abolishment of ICE, and an even stronger Green New Deal.
 
 # State House Races
 
