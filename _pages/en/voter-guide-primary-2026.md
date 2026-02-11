@@ -8,6 +8,8 @@ West Suburban Illinois DSA (WSILDSA) has elected to give recommendations in upco
 
 All candidates highlighted are pro-palestine, all are pro medicare for all, and, according to research by the Electoral Working Group for WSILDSA up to Jan. 2026, are worth our support in the primary to, at minimum, turn the Democratic Party more left.
 
+A rose 🌹 highlights an endorsed candidate, meaning we have a working relationship with them directly.
+
 # Federal Senate
 
 ### Bryan Maxwell
@@ -26,11 +28,11 @@ Matt Conroy recognizes that our system is broken, and proposes some strong ideas
 
 
 ## Illinois Federal House District 6
-### Joey Ruzevich
+### 🌹 Joey Ruzevich
 In September, members of the West Suburban Illinois DSA voted to endorse Joey Ruzevich for IL-06. We believe he will fight for the changes the working class desperately need like universal healthcare, a living wage, immigration reform, and an end to genocide and war. Joey is an ally of the working class and his target is the same as ours, the people at the top of Wall Street robbing us every single day. He is running against incumbent Sean Casten.
 
 ## Illinois Federal House District 8
-### Junaid Ahmed
+### 🌹 Junaid Ahmed
 Junaid Ahmed is a husband, father of four, DePaul graduate, immigrant, and proud Illinoisan who has given back to his community throughout his life. During the pandemic, he founded the non-profit Chi-Care to deliver hot meals and supplies to our unhoused neighbors. Junaid Ahmed is a democratic socialist and when elected, he will fight against the current, crumbling system which enriches the top 1% at the cost of the working class. Junaid is committed to bringing down the cost of healthcare and work towards universal healthcare, to a comprehensive arms embargo of Israel, and to defending immigrant and queer communities from the Trump regime. We have endorsed Junaid Ahmed in this race too.
 
 
@@ -57,5 +59,5 @@ Saba Haider is a DuPage County Board Member and advocate for local, sustainable,
 # County Board District Races
 
 ## DuPage County Board District 2
-### Mahnoor Ahmad
+### 🌹 Mahnoor Ahmad
 Mahnoor Ahmad is a proud democratic socialist and ally in the fight against the establishment. In the past, she took the fight to Sean Casten. Although not successful, she has not given up fighting for her community against those forces and is now running for DuPage County Board District 2. Her main focuses are reducing the cost of living pressure on our working class fellows, as well as infrastructure that focuses on protecting us from and preventing the effects of climate change, especially related to flooding in her district. Our chapter has also endorsed Mahnoor in this race.
