@@ -64,7 +64,7 @@ Mahnoor Ahmad is a proud democratic socialist and ally in the fight against the 
 
 ## DuPage County Board District 4
 ### Laurie Nowak
-Laurie Nowak is a friend of the chapter, active DSA member, and experienced organizer driven to stand up for and strengthen her local community. She has plans to do this through reforms to resist cooperation with ICE while prioritizing funding for mental health, substance abuse treatments, and justice reform in her county. Laurie recognizes the threats that fascism has for us, and is ready to face those on the multitude of fronts that there will be. She has experience being a county board member in the past, working as an outspoken leftist as one of three democrats on an 18 seat board. She has one opponent in this race. DuPage County Board District 6
+Laurie Nowak is a friend of the chapter, active DSA member, and experienced organizer driven to stand up for and strengthen her local community. She has plans to do this through reforms to resist cooperation with ICE while prioritizing funding for mental health, substance abuse treatments, and justice reform in her county. Laurie recognizes the threats that fascism has for us, and is ready to face those on the multitude of fronts that there will be. She has experience being a county board member in the past, working as an outspoken leftist as one of three democrats on an 18 seat board. She has one opponent in this race.
 
 ## DuPage County Board District 6
 ### Syed V. Hussain
