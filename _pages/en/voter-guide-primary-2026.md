@@ -61,3 +61,11 @@ Saba Haider is a DuPage County Board Member and advocate for local, sustainable,
 ## DuPage County Board District 2
 ### 🌹 Mahnoor Ahmad
 Mahnoor Ahmad is a proud democratic socialist and ally in the fight against the establishment. In the past, she took the fight to Sean Casten. Although not successful, she has not given up fighting for her community against those forces and is now running for DuPage County Board District 2. Her main focuses are reducing the cost of living pressure on our working class fellows, as well as infrastructure that focuses on protecting us from and preventing the effects of climate change, especially related to flooding in her district. Our chapter has also endorsed Mahnoor in this race.
+
+## DuPage County Board District 4
+### Laurie Nowak
+Laurie Nowak is a friend of the chapter, active DSA member, and experienced organizer driven to stand up for and strengthen her local community. She has plans to do this through reforms to resist cooperation with ICE while prioritizing funding for mental health, substance abuse treatments, and justice reform in her county. Laurie recognizes the threats that fascism has for us, and is ready to face those on the multitude of fronts that there will be. She has experience being a county board member in the past, working as an outspoken leftist as one of three democrats on an 18 seat board. She has one opponent in this race. DuPage County Board District 6
+
+## DuPage County Board District 6
+### Syed V. Hussain
+Syed V. Hussain is kind, generous, and a man of many hats who has dedicated his life to community work, public service, and the betterment of those around him. His focus has always been people. In his job, Syed leveraged his tech knowledge and financial expertise to make sure his financials were responsible and they were doing the bestmost they could for their customers. In his free time, Syed spent more than a decade volunteering, serving in various nonprofits. His wealth of different experiences from his business and community work arm him for the number of decisions he'll have the responsibility to make as a board member. He has one opponent in this race.
