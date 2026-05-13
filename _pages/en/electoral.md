@@ -20,7 +20,7 @@ Ben is a lifelong resident of Illinois and the Chicagoland area. Growing up in L
 
 Ben believes in creating an Illinois where all residents can afford the basic necessities of life, such as healthcare and housing, without feeling economic anxiety. He believes in creating communities where everyone can live safe and fulfilling lives regardless of where they were born or where they come from.
 
-{% include comp-button.html text="Donate to Ben" link="https://secure.actblue.com/donate/benmcadamsilsenate" %}
+{% include comp-button.html text="Visit Ben's Site" link="https://www.mcadamsforil.com/" %}
 
 ## Mahnoor Ahmad for DuPage County Board in District 2
 ![WSIL DSA Endorses Satnaam Mago for IL Senate in the 33rd](assets/images/mahnoor.png)
