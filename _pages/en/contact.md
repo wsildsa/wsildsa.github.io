@@ -12,7 +12,7 @@ If you would like to contact the WSILDSA chapter leadership, use the following e
   <span id="email" style="display:none"><a id="email_str" href="mailto:">Email link</a></span>
 </p>
 
-## Human Grievance Officer Contact
+## Harassment Grievance Officer Contact
 WSILDSA has adopted the DSA national Resolution 33 to establish a grievance program.  To report any issues encountered with other chapter members such as sexual harassment, send an email to the HGOs below.  This inbox is only viewed by elected HGOs.
 
 <p class="hgo_email">
