@@ -2,7 +2,7 @@
 lang-ref: sbwu-strike-support
 title: Strike Support for Starbucks Workers
 description: November 18th, 2025
-image: assets/images/wsildsa-sbwu-strike-support.jpg
+image: assets/images/StrikeSupport_Blog.png
 ---
 Unionized Starbucks Workers are on strike across the country and here in the Chicagoland area in Des Plaines (Lee and Oakton store) and Geneva (3rd and State), with the Aurora store (Kirk and Butterfield) joining the strike this Thursday 11/20/25.
 
