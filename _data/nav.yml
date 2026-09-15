@@ -21,6 +21,10 @@ elements:
         default: events
         en: events
   - page:
+      en: Store
+      url:
+        default: https://west-suburban-il-dsa-nfp.square.site/
+  - page:
       en: News
       url:
         default: updates
