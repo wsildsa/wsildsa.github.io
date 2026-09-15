@@ -21,7 +21,7 @@ elements:
         default: events
         en: events
   - page:
-      en: Store
+      en: Merch
       url:
         default: https://west-suburban-il-dsa-nfp.square.site/
   - page:
