@@ -1,0 +1,1805 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.308725555263,
+          41.880597872657
+        ]
+      },
+      "properties": {
+        "name": "Kane County Clerk's Office (Geneva)",
+        "address": "719 S Batavia Ave, Bldg. B, Geneva, IL 60134",
+        "city": "Geneva",
+        "county": "Kane",
+        "dates": "Thursday, September 24 - Friday, October 16 (M-F only);  Monday, October 19 - Tuesday, November 3",
+        "category": "long",
+        "dropbox": true,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.316325023473,
+          41.757122711564
+        ]
+      },
+      "properties": {
+        "name": "Clerk's Aurora Satellite Office",
+        "address": "5 E Downer Pl, Aurora, IL 60505",
+        "city": "Aurora",
+        "county": "Kane",
+        "dates": "Thursday, September 24 - Friday, October 16 (M-F only);  Monday, October 19 - Tuesday, November 3",
+        "category": "long",
+        "dropbox": true,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.339824526672,
+          41.906340643626
+        ]
+      },
+      "properties": {
+        "name": "Kane County Branch Court",
+        "address": "530 S Randall Rd, St. Charles, IL 60174",
+        "city": "St. Charles",
+        "county": "Kane",
+        "dates": "Monday, October 19 - Tuesday, November 3",
+        "category": "standard",
+        "dropbox": false,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3200774,
+          42.1315122
+        ]
+      },
+      "properties": {
+        "name": "Carpentersville Fire Station No. 93",
+        "address": "5000 Sleepy Hollow Rd, Carpentersville, IL 60110",
+        "city": "Carpentersville",
+        "county": "Kane",
+        "dates": "Monday, October 19 - Tuesday, November 3",
+        "category": "standard",
+        "dropbox": false,
+        "source": "locationiq"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3139818,
+          42.0176602
+        ]
+      },
+      "properties": {
+        "name": "Elgin Township",
+        "address": "729 S McLean Blvd, Elgin, IL 60123",
+        "city": "Elgin",
+        "county": "Kane",
+        "dates": "Monday, October 19 - Tuesday, November 3",
+        "category": "standard",
+        "dropbox": false,
+        "source": "locationiq"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.286959082581,
+          42.041978070682
+        ]
+      },
+      "properties": {
+        "name": "Gail Borden Library",
+        "address": "270 N Grove Ave, Elgin, IL 60120",
+        "city": "Elgin",
+        "county": "Kane",
+        "dates": "Monday, October 19 - Tuesday, November 3",
+        "category": "standard",
+        "dropbox": false,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.36901781123,
+          41.780998953481
+        ]
+      },
+      "properties": {
+        "name": "Vaughan Athletic Center",
+        "address": "2121 W Indian Tr, Aurora, IL 60506",
+        "city": "Aurora",
+        "county": "Kane",
+        "dates": "Monday, October 19 - Tuesday, November 3",
+        "category": "standard",
+        "dropbox": false,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.408455381714,
+          41.941177342698
+        ]
+      },
+      "properties": {
+        "name": "Campton Community Center",
+        "address": "5N082 Old LaFox Rd, Campton Hills, IL 60175",
+        "city": "Campton Hills",
+        "county": "Kane",
+        "dates": "Monday, October 19 - Thursday, October 29 (Weekdays only)",
+        "category": "standard",
+        "dropbox": false,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.308290902288,
+          41.851481499056
+        ]
+      },
+      "properties": {
+        "name": "City of Batavia",
+        "address": "100 N Island Ave, Batavia, IL 60510",
+        "city": "Batavia",
+        "county": "Kane",
+        "dates": "Monday, October 19 - Thursday, October 29 (Weekdays only)",
+        "category": "standard",
+        "dropbox": false,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.283235809117,
+          42.03962524242
+        ]
+      },
+      "properties": {
+        "name": "City of Elgin",
+        "address": "150 Dexter Ct, Elgin, IL 60120",
+        "city": "Elgin",
+        "county": "Kane",
+        "dates": "Monday, October 19 - Thursday, October 23",
+        "category": "standard",
+        "dropbox": true,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.449765157945,
+          42.139574645119
+        ]
+      },
+      "properties": {
+        "name": "Del Webb Sun City",
+        "address": "Del Webb Sun City, 12880 Del Webb Blvd, Huntley, IL 60142",
+        "city": "Huntley",
+        "county": "Kane",
+        "dates": "Monday, October 19 - Thursday, October 22",
+        "category": "standard",
+        "dropbox": false,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.532356282782,
+          42.09982139214
+        ]
+      },
+      "properties": {
+        "name": "Hampshire Township",
+        "address": "170 Mill Ave, Hampshire, IL 60140",
+        "city": "Hampshire",
+        "county": "Kane",
+        "dates": "Monday, October 19 - Tuesday, October 27",
+        "category": "standard",
+        "dropbox": false,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.45561661196,
+          41.762724294061
+        ]
+      },
+      "properties": {
+        "name": "Sugar Grove Library",
+        "address": "125 S. Municipal Dr, Sugar Grove, IL 60554",
+        "city": "Sugar Grove",
+        "county": "Kane",
+        "dates": "Monday, October 19 - Thursday, October 29 (Weekdays only)",
+        "category": "standard",
+        "dropbox": false,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.469771121588,
+          41.892287689193
+        ]
+      },
+      "properties": {
+        "name": "Town & Country Library",
+        "address": "320 E North St, Elburn, IL 60119",
+        "city": "Elburn",
+        "county": "Kane",
+        "dates": "Monday, October 26 - Thursday, October 29",
+        "category": "standard",
+        "dropbox": false,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.278662853563,
+          42.098030324353
+        ]
+      },
+      "properties": {
+        "name": "Village of West Dundee",
+        "address": "102 S Second St, West Dundee, IL 60118",
+        "city": "West Dundee",
+        "county": "Kane",
+        "dates": "Monday, October 19 - Thursday, October 29 (Weekdays only)",
+        "category": "standard",
+        "dropbox": false,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.323590414246,
+          42.015919457578
+        ]
+      },
+      "properties": {
+        "name": "Elgin Community College (Mobile)",
+        "address": "1700 Spartan Dr, Elgin, IL 60123",
+        "city": "Elgin",
+        "county": "Kane",
+        "dates": "Monday, October 19 - Tuesday, October 20",
+        "category": "mobile",
+        "dropbox": false,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.340183033839,
+          41.848341493989
+        ]
+      },
+      "properties": {
+        "name": "Jewel-Osco in Batavia (Mobile)",
+        "address": "119 S Randall Rd, Batavia, IL 60510",
+        "city": "Batavia",
+        "county": "Kane",
+        "dates": "Wednesday, October 21",
+        "category": "mobile",
+        "dropbox": false,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.472380086531,
+          41.900602030126
+        ]
+      },
+      "properties": {
+        "name": "Jewel-Osco in Elburn (Mobile)",
+        "address": "800 N Main St, Elburn, IL 60119",
+        "city": "Elburn",
+        "county": "Kane",
+        "dates": "Thursday, October 22",
+        "category": "mobile",
+        "dropbox": false,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.295489255928,
+          42.099096182642
+        ]
+      },
+      "properties": {
+        "name": "Jewel-Osco in West Dundee (Mobile)",
+        "address": "1250 W Main St, West Dundee, IL 60118",
+        "city": "West Dundee",
+        "county": "Kane",
+        "dates": "Friday, October 23",
+        "category": "mobile",
+        "dropbox": false,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.318926250683,
+          42.033901536152
+        ]
+      },
+      "properties": {
+        "name": "Jewel-Osco in Elgin (Mobile)",
+        "address": "1660 Larkin Ave, Elgin, IL 60123",
+        "city": "Elgin",
+        "county": "Kane",
+        "dates": "Monday, October 26",
+        "category": "mobile",
+        "dropbox": false,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.27747227113,
+          41.910041538588
+        ]
+      },
+      "properties": {
+        "name": "Jewel-Osco in St. Charles (Mobile)",
+        "address": "652 Kirk Rd, St. Charles, IL 60174",
+        "city": "St. Charles",
+        "county": "Kane",
+        "dates": "Tuesday, October 27 & Wednesday, October 28",
+        "category": "mobile",
+        "dropbox": false,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.364806029007,
+          41.76430586379
+        ]
+      },
+      "properties": {
+        "name": "Jewel-Osco in Aurora (Mobile)",
+        "address": "1952 W Galena Blvd, Aurora, IL 60506",
+        "city": "Aurora",
+        "county": "Kane",
+        "dates": "Monday, October 19 - Friday, October 23",
+        "category": "mobile",
+        "dropbox": false,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.324784905299,
+          41.798424464622
+        ]
+      },
+      "properties": {
+        "name": "North Aurora Police Department (Mobile)",
+        "address": "200 S Lincolnway St, North Aurora, IL 60542",
+        "city": "North Aurora",
+        "county": "Kane",
+        "dates": "Monday, October 26 - Wednesday, October 28",
+        "category": "mobile",
+        "dropbox": false,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.988588358926,
+          41.934658631272
+        ]
+      },
+      "properties": {
+        "name": "Addison Township Office",
+        "address": "401 N Addison Rd, Addison, IL 60101",
+        "city": "Addison",
+        "county": "DuPage",
+        "dates": "Thursday, September 24 - Tuesday, November 3",
+        "category": "long",
+        "dropbox": true,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.183719358071,
+          41.977636778065
+        ]
+      },
+      "properties": {
+        "name": "Bartlett Community Center",
+        "address": "700 S Bartlett Rd, Bartlett, IL 60103",
+        "city": "Bartlett",
+        "county": "DuPage",
+        "dates": "Thursday, September 24 - Tuesday, November 3",
+        "category": "long",
+        "dropbox": true,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.006499654972,
+          41.794361197415
+        ]
+      },
+      "properties": {
+        "name": "Downers Grove Village Hall",
+        "address": "850 Curtiss St, Downers Grove, IL 60515",
+        "city": "Downers Grove",
+        "county": "DuPage",
+        "dates": "Thursday, September 24 - Tuesday, November 3",
+        "category": "long",
+        "dropbox": true,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.133615973662,
+          41.866156232836
+        ]
+      },
+      "properties": {
+        "name": "DuPage County Fairgrounds",
+        "address": "2015 Manchester Rd, Wheaton, IL 60187",
+        "city": "Wheaton",
+        "county": "DuPage",
+        "dates": "Thursday, September 24 - Tuesday, November 3",
+        "category": "long",
+        "dropbox": true,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.152949058952,
+          41.771254900727
+        ]
+      },
+      "properties": {
+        "name": "Naperville Municipal Center",
+        "address": "400 S Eagle St, Naperville, IL 60540",
+        "city": "Naperville",
+        "county": "DuPage",
+        "dates": "Thursday, September 24 - Tuesday, November 3",
+        "category": "long",
+        "dropbox": true,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.040207883881,
+          41.736908634911
+        ]
+      },
+      "properties": {
+        "name": "Athletic Rec Center (in Program Room A)",
+        "address": "8201 Janes Ave, Woodridge, IL 60517",
+        "city": "Woodridge",
+        "county": "DuPage",
+        "dates": "Monday, October 19 - Tuesday, November 3",
+        "category": "standard",
+        "dropbox": true,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.934875494971,
+          41.953807102729
+        ]
+      },
+      "properties": {
+        "name": "Bensenville Police Department (in Training Room)",
+        "address": "345 E Green St, Bensenville, IL 60106",
+        "city": "Bensenville",
+        "county": "DuPage",
+        "dates": "Monday, October 19 - Tuesday, November 3",
+        "category": "standard",
+        "dropbox": true,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.993293874271,
+          41.754986015727
+        ]
+      },
+      "properties": {
+        "name": "Darien Community Center (in Room 16 - Piano Room)",
+        "address": "7301 Fairview Ave, Darien, IL 60561",
+        "city": "Darien",
+        "county": "DuPage",
+        "dates": "Monday, October 19 - Tuesday, November 3",
+        "category": "standard",
+        "dropbox": true,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.038108066426,
+          41.804350920702
+        ]
+      },
+      "properties": {
+        "name": "Downers Grove Rec Center (in Room 103)",
+        "address": "4500 Belmont Rd, Downers Grove, IL 60515",
+        "city": "Downers Grove",
+        "county": "DuPage",
+        "dates": "Monday, October 19 - Tuesday, November 3",
+        "category": "standard",
+        "dropbox": true,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.939827365864,
+          41.903915991163
+        ]
+      },
+      "properties": {
+        "name": "Elmhurst City Hall (in Council Chambers)",
+        "address": "209 N York Rd, Elmhurst, IL 60126",
+        "city": "Elmhurst",
+        "county": "DuPage",
+        "dates": "Monday, October 19 - Tuesday, November 3",
+        "category": "standard",
+        "dropbox": true,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2135099,
+          41.7588109
+        ]
+      },
+      "properties": {
+        "name": "Fox Valley Mall (at Mall Entrance #1 Unit E2)",
+        "address": "195 Fox Valley Center Dr, Aurora, IL 60504",
+        "city": "Aurora",
+        "county": "DuPage",
+        "dates": "Monday, October 19 - Tuesday, November 3",
+        "category": "standard",
+        "dropbox": true,
+        "source": "locationiq"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.065781709578,
+          41.87540010061
+        ]
+      },
+      "properties": {
+        "name": "Glen Ellyn Civic Center (in Clayton North Hall)",
+        "address": "535 Duane St, Glen Ellyn, IL 60137",
+        "city": "Glen Ellyn",
+        "county": "DuPage",
+        "dates": "Monday, October 19 - Tuesday, November 3",
+        "category": "standard",
+        "dropbox": true,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.089862,
+          41.920477
+        ]
+      },
+      "properties": {
+        "name": "Glendale Heights Sports Hub (in Arts and Crafts Room)",
+        "address": "250 Civic Center Plaza, Glendale Hts, IL 60139",
+        "city": "Glendale Heights",
+        "county": "DuPage",
+        "dates": "Monday, October 19 - Tuesday, November 3",
+        "category": "standard",
+        "dropbox": true,
+        "source": "locationiq"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.92888279701,
+          41.80371592257
+        ]
+      },
+      "properties": {
+        "name": "Hinsdale Village Hall (Scout Room)",
+        "address": "19 E Chicago Ave, Hinsdale, IL 60521",
+        "city": "Hinsdale",
+        "county": "DuPage",
+        "dates": "Monday, October 19 - Tuesday, November 3",
+        "category": "standard",
+        "dropbox": true,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.019863572304,
+          41.970608426738
+        ]
+      },
+      "properties": {
+        "name": "Itasca Waterpark (in Rental Hall)",
+        "address": "100 N Catalpa St, Itasca, IL 60143",
+        "city": "Itasca",
+        "county": "DuPage",
+        "dates": "Monday, October 19 - Tuesday, November 3",
+        "category": "standard",
+        "dropbox": true,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.076910513594,
+          41.794405471905
+        ]
+      },
+      "properties": {
+        "name": "Lisle Police Department (in Training Room)",
+        "address": "5040 Lincoln Ave, Lisle, IL 60532",
+        "city": "Lisle",
+        "county": "DuPage",
+        "dates": "Monday, October 19 - Tuesday, November 3",
+        "category": "standard",
+        "dropbox": true,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.93972586925,
+          41.832650693644
+        ]
+      },
+      "properties": {
+        "name": "Oak Brook Village Hall (in West Wing Conference Room)",
+        "address": "1200 Oak Brook Rd, Oak Brook, IL 60523",
+        "city": "Oak Brook",
+        "county": "DuPage",
+        "dates": "Monday, October 19 - Tuesday, November 3",
+        "category": "standard",
+        "dropbox": true,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.076147526127,
+          41.982691050769
+        ]
+      },
+      "properties": {
+        "name": "Roselle Public Library (in Community Room A & B)",
+        "address": "40 S Park St, Roselle, IL 60172",
+        "city": "Roselle",
+        "county": "DuPage",
+        "dates": "Monday, October 19 - Tuesday, November 3",
+        "category": "standard",
+        "dropbox": true,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.978910692757,
+          41.884486454412
+        ]
+      },
+      "properties": {
+        "name": "Villa Park Public Library (in Ohrman Room)",
+        "address": "305 S Ardmore Ave, Villa Park, IL 60181",
+        "city": "Villa Park",
+        "county": "DuPage",
+        "dates": "Monday, October 19 - Tuesday, November 3",
+        "category": "standard",
+        "dropbox": true,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.180325430423,
+          41.823111019141
+        ]
+      },
+      "properties": {
+        "name": "Warrenville Park District (in Multipurpose Room)",
+        "address": "3S260 Warren Ave, Warrenville, IL 60555",
+        "city": "Warrenville",
+        "county": "DuPage",
+        "dates": "Monday, October 19 - Tuesday, November 3",
+        "category": "standard",
+        "dropbox": true,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.207173312607,
+          41.88391108651
+        ]
+      },
+      "properties": {
+        "name": "West Chicago Voting Center (in Foyer)",
+        "address": "157 W Washington, West Chicago, IL 60185",
+        "city": "West Chicago",
+        "county": "DuPage",
+        "dates": "Monday, October 19 - Tuesday, November 3",
+        "category": "standard",
+        "dropbox": true,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.975779331093,
+          41.805523182151
+        ]
+      },
+      "properties": {
+        "name": "Westmont Public Library (in 1st Floor Meeting Room)",
+        "address": "428 N Cass Ave, Westmont, IL 60559",
+        "city": "Westmont",
+        "county": "DuPage",
+        "dates": "Monday, October 19 - Tuesday, November 3",
+        "category": "standard",
+        "dropbox": true,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.095842760792,
+          41.841082665576
+        ]
+      },
+      "properties": {
+        "name": "Wheaton Park District Blanchard Building (in Commons Area)",
+        "address": "1753 S Blanchard Rd, Wheaton, IL 60189",
+        "city": "Wheaton",
+        "county": "DuPage",
+        "dates": "Monday, October 19 - Tuesday, November 3",
+        "category": "standard",
+        "dropbox": true,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.009316,
+          41.83818
+        ]
+      },
+      "properties": {
+        "name": "Yorktown Center",
+        "address": "203 Yorktown Shopping Center, Lombard, IL 60148 & 350 Yorktown Shopping Center, Lombard, IL 60148 (Dropbox)",
+        "city": "Lombard",
+        "county": "DuPage",
+        "dates": "Monday, October 19 - Tuesday, November 3",
+        "category": "standard",
+        "dropbox": true,
+        "source": "locationiq"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.142519114005,
+          41.861075454435
+        ]
+      },
+      "properties": {
+        "name": "VBM Ballot 24/7 Dropbox in Parking Lot at DuPage County Administration Building",
+        "address": "421 N County Farm Rd, Wheaton, IL 60187",
+        "city": "Wheaton",
+        "county": "DuPage",
+        "dates": "Monday, October 19 - Tuesday, November 3",
+        "category": "standard",
+        "dropbox": true,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.142519114005,
+          41.861075454435
+        ]
+      },
+      "properties": {
+        "name": "DuPage County Clerk Election Division (in Room 1-600)",
+        "address": "421 N County Farm Rd, Wheaton, IL 60187",
+        "city": "Wheaton",
+        "county": "DuPage",
+        "dates": "Monday, October 19 - Tuesday, November 3 (Weekdays only)",
+        "category": "standard",
+        "dropbox": true,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.142519114005,
+          41.861075454435
+        ]
+      },
+      "properties": {
+        "name": "VBM Ballot Dropbox in JTK Administration Building",
+        "address": "421 N County Farm Rd, Wheaton, IL 60187",
+        "city": "Wheaton",
+        "county": "DuPage",
+        "dates": "Monday, October 19 - Tuesday, November 3",
+        "category": "standard",
+        "dropbox": true,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.08162378307,
+          41.529827756085
+        ]
+      },
+      "properties": {
+        "name": "Will County Clerk's Office",
+        "address": "302 N Chicago St, Joliet, IL 60432",
+        "city": "Joliet",
+        "county": "Will",
+        "dates": "Thursday, September 24 - Friday, September 25; Monday, September 28 - Friday, October 2; Monday, October 5 - Friday, October 9; Monday, October 12 - Friday, October 16; Monday, October 19 - Monday, November 2",
+        "category": "long",
+        "dropbox": true,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.218293646081,
+          41.264448377995
+        ]
+      },
+      "properties": {
+        "name": "City of Braidwood",
+        "address": "141 W Main St., Braidwood, IL 60408",
+        "city": "Braidwood",
+        "county": "Will",
+        "dates": "Monday, October 19 - Friday, October 30 (Weekdays only)",
+        "category": "standard",
+        "dropbox": false,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.152949058952,
+          41.771254900727
+        ]
+      },
+      "properties": {
+        "name": "City of Naperville",
+        "address": "400 S. Eagle St. Naperville, IL 60540",
+        "city": "Naperville",
+        "county": "Will",
+        "dates": "Monday, October 19 - Monday, November 2",
+        "category": "standard",
+        "dropbox": true,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.629918822693,
+          41.444257409642
+        ]
+      },
+      "properties": {
+        "name": "Crete Township",
+        "address": "1367 Wood St. Crete, IL 60417",
+        "city": "Crete",
+        "county": "Will",
+        "dates": "Monday, October 26 - Saturday, October 31",
+        "category": "standard",
+        "dropbox": false,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.079240292281,
+          41.698288825034
+        ]
+      },
+      "properties": {
+        "name": "Fountaindale Public Library",
+        "address": "300 W. Briarcliff Rd. Bolingbrook, IL 60440",
+        "city": "Bolingbrook",
+        "county": "Will",
+        "dates": "Monday, October 19 - Tuesday, November 3",
+        "category": "standard",
+        "dropbox": true,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.828982720098,
+          41.506142207835
+        ]
+      },
+      "properties": {
+        "name": "Frankfort Public Library",
+        "address": "21119 S. Pfeiffer Rd. Frankfort, IL 60423",
+        "city": "Frankfort",
+        "county": "Will",
+        "dates": "Monday, October 19 - Saturday, October 24; Monday, October 26 - Saturday, October 31",
+        "category": "standard",
+        "dropbox": true,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.716795,
+          41.448511
+        ]
+      },
+      "properties": {
+        "name": "Governor's State University",
+        "address": "Hantack House 1 University Pkwy. University Park, IL 60484",
+        "city": "University Park",
+        "county": "Will",
+        "dates": "Monday, October 19 - Sunday, November 1",
+        "category": "standard",
+        "dropbox": true,
+        "source": "locationiq"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.072735579293,
+          41.534616070892
+        ]
+      },
+      "properties": {
+        "name": "Hartman Recreation Center",
+        "address": "511 Collins St Joliet, IL 60432",
+        "city": "Joliet",
+        "county": "Will",
+        "dates": "Monday, October 26 - Friday, October 30",
+        "category": "standard",
+        "dropbox": false,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.969332450548,
+          41.613751468848
+        ]
+      },
+      "properties": {
+        "name": "Homer Township",
+        "address": "14350 W. 151st St. Homer Glen, IL 60491",
+        "city": "Homer Glen",
+        "county": "Will",
+        "dates": "Monday, October 19 - Saturday, October 24; Monday, October 26 - Friday, October 30",
+        "category": "standard",
+        "dropbox": false,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.151839659091,
+          41.521983940886
+        ]
+      },
+      "properties": {
+        "name": "Joliet Park District",
+        "address": "3000 W. Jefferson St. Joliet, IL 60435",
+        "city": "Joliet",
+        "county": "Will",
+        "dates": "Monday, October 19 - Monday, November 2",
+        "category": "standard",
+        "dropbox": false,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.025966680339,
+          41.585486392034
+        ]
+      },
+      "properties": {
+        "name": "Lockport Township",
+        "address": "1463 S. Farrell Rd., Community Rm. Lockport, IL 60441",
+        "city": "Lockport",
+        "county": "Will",
+        "dates": "Monday, October 19 - Saturday, October 24; Monday, October 26 - Saturday, October 31",
+        "category": "standard",
+        "dropbox": false,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.056670578377,
+          41.590239554206
+        ]
+      },
+      "properties": {
+        "name": "White Oak Library (Lockport BrancH)",
+        "address": "121 E 8th St, Lockport, IL 60441",
+        "city": "Lockport",
+        "county": "Will",
+        "dates": "Saturday, September 26 - Monday, November 2",
+        "category": "standard",
+        "dropbox": true,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.201022603288,
+          41.709118505005
+        ]
+      },
+      "properties": {
+        "name": "Naperville Public Library (95th St)",
+        "address": "3015 Cedar Glade Rd. Naperville, IL 60564",
+        "city": "Naperville",
+        "county": "Will",
+        "dates": "Monday, October 19 - Monday, November 2",
+        "category": "standard",
+        "dropbox": true,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.215630786562,
+          41.593936523472
+        ]
+      },
+      "properties": {
+        "name": "Prairie Activity & Rec Center",
+        "address": "24550 Renwick Rd. Plainfield, IL 60544",
+        "city": "Plainfield",
+        "county": "Will",
+        "dates": "Monday, October 19 - Saturday, October 24; Monday, October 26 - Friday, October 30",
+        "category": "standard",
+        "dropbox": false,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.075047804551,
+          41.530027555362
+        ]
+      },
+      "properties": {
+        "name": "Spanish Community Center",
+        "address": "309 N. Eastern Ave. Joliet, IL 60432",
+        "city": "Joliet",
+        "county": "Will",
+        "dates": "Monday, October 19 - Sunday, October 25",
+        "category": "standard",
+        "dropbox": false,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.232726752919,
+          41.506746884552
+        ]
+      },
+      "properties": {
+        "name": "Troy Township",
+        "address": "25448 W Seil Rd. Shorewood, IL 6040",
+        "city": "Shorewood",
+        "county": "Will",
+        "dates": "Monday, October 19 - Friday, October 23; Monday, October 26 - Friday, October 30",
+        "category": "standard",
+        "dropbox": false,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.219855925055,
+          41.439997335734
+        ]
+      },
+      "properties": {
+        "name": "Village of Channahon",
+        "address": "24555 S. Navajo Dr. Channahon, IL 60410",
+        "city": "Channahon",
+        "county": "Will",
+        "dates": "Monday, October 19 - Friday, October 23; Monday, October 26 - Friday, October 30",
+        "category": "standard",
+        "dropbox": false,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1063686838,
+          41.404228997863
+        ]
+      },
+      "properties": {
+        "name": "Village of Elwood",
+        "address": "401 E. Mississippi Ave. Elwood, IL 60421",
+        "city": "Elwood",
+        "county": "Will",
+        "dates": "Monday, October 19 - Friday, October 23; Monday, October 26 - Friday, October 30",
+        "category": "standard",
+        "dropbox": false,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.86008497978,
+          41.497478698004
+        ]
+      },
+      "properties": {
+        "name": "Village of Frankfort",
+        "address": "432 W. Nebraska St. Frankfort, IL 60423",
+        "city": "Frankfort",
+        "county": "Will",
+        "dates": "Monday, October 19 - Friday, October 23; Monday, October 26 - Friday, October 30",
+        "category": "standard",
+        "dropbox": false,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.995011374976,
+          41.432842852658
+        ]
+      },
+      "properties": {
+        "name": "Village of Manhattan",
+        "address": "260 Market Pl. Manhattan, IL 60442",
+        "city": "Manhattan",
+        "county": "Will",
+        "dates": "Monday, October 19 - Friday, October 23; Monday, October 26 - Saturday, October 31",
+        "category": "standard",
+        "dropbox": true,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.884030457961,
+          41.534598959732
+        ]
+      },
+      "properties": {
+        "name": "Village of Mokena",
+        "address": "11004 Carpenter St. Mokena, IL 60448",
+        "city": "Mokena",
+        "county": "Will",
+        "dates": "Monday, October 19 - Friday, October 23; Monday, October 26 - Friday, October 30",
+        "category": "standard",
+        "dropbox": false,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.734453208741,
+          41.420026248092
+        ]
+      },
+      "properties": {
+        "name": "Village of Monee",
+        "address": "5130 W. Court St. Monee, IL 60449",
+        "city": "Monee",
+        "county": "Will",
+        "dates": "Monday, October 19 - Friday, October 23",
+        "category": "standard",
+        "dropbox": false,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.979528207009,
+          41.513534743376
+        ]
+      },
+      "properties": {
+        "name": "Village of New Lenox",
+        "address": "1 Veterans Pkwy. New Lenox, IL 60451",
+        "city": "New Lenox",
+        "county": "Will",
+        "dates": "Monday, October 19 - Friday, October 23; Monday, October 26 - Friday, October 30",
+        "category": "standard",
+        "dropbox": false,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.211953673228,
+          41.608397729893
+        ]
+      },
+      "properties": {
+        "name": "Village of Plainfield",
+        "address": "24401 W. Lockport St. Plainfield, IL 60544",
+        "city": "Plainfield",
+        "county": "Will",
+        "dates": "Monday, October 19 - Friday, October 23; Monday, October 26 - Friday, October 30",
+        "category": "standard",
+        "dropbox": true,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.11184811801,
+          41.639308380725
+        ]
+      },
+      "properties": {
+        "name": "Village of Romeoville",
+        "address": "1050 W. Romeo Rd. Romeoville, IL 60446",
+        "city": "Romeoville",
+        "county": "Will",
+        "dates": "Monday, October 19 - Friday, October 23; Monday, October 26 - Friday, October 30",
+        "category": "standard",
+        "dropbox": false,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.597489951686,
+          41.341008906272
+        ]
+      },
+      "properties": {
+        "name": "Washington Township",
+        "address": "30200 Town Center Rd. Beecher, IL 60401",
+        "city": "Beecher",
+        "county": "Will",
+        "dates": "Monday, October 19 - Friday, October 23; Monday, October 26 - Friday, October 30",
+        "category": "standard",
+        "dropbox": false,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.081555573728,
+          41.521644655755
+        ]
+      },
+      "properties": {
+        "name": "Will County Adult Detention Facility (For Detainees)",
+        "address": "95 S Chicago St, Joliet, IL 60436",
+        "city": "Joliet",
+        "county": "Will",
+        "dates": "Monday, November 2 & Tuesday, November 3",
+        "category": "standard",
+        "dropbox": false,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4404131,
+          42.342556
+        ]
+      },
+      "properties": {
+        "name": "McHenry VBM Ballot 24/7 Dropbox",
+        "address": "667 Ware Rd., Woodstock",
+        "city": "Wodostock",
+        "county": "McHenry",
+        "dates": "September 24th-November 3rd",
+        "category": "long",
+        "dropbox": true,
+        "source": "locationiq"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.431913231618,
+          42.308900943766
+        ]
+      },
+      "properties": {
+        "name": "McHenry County Election Center",
+        "address": "410 S. Eastwood Dr., Woodstock",
+        "city": "Woodstock",
+        "county": "McHenry",
+        "dates": "September 24th-November 3rd Closed October 12th",
+        "category": "long",
+        "dropbox": true,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.431913231618,
+          42.308900943766
+        ]
+      },
+      "properties": {
+        "name": "Algonquin Township Garage 3702 US Hwy 14, Crystal Lake",
+        "address": "410 S. Eastwood Dr., Woodstock",
+        "city": "Woodstock",
+        "county": "McHenry",
+        "dates": "Monday, October 19 - Monday, November 2 (closed on Sundays)",
+        "category": "standard",
+        "dropbox": true,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.323419842129,
+          42.239355741156
+        ]
+      },
+      "properties": {
+        "name": "Crystal Lake Public Library 126 Paddock St., Crystal Lake",
+        "address": "126 Paddock St., Crystal Lake",
+        "city": "Crystal Lake",
+        "county": "McHenry",
+        "dates": "Monday, October 19-Friday, October 23; Saturday October 24th; Monday, October 26th-Friday October 30th; Saturday, October 31st; Sunday, November 1st; Monday November 2nd",
+        "category": "standard",
+        "dropbox": true,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.27220400317,
+          42.380912659635
+        ]
+      },
+      "properties": {
+        "name": "McHenry Township Office 3703 N. Richmond Rd., Johnsburg",
+        "address": "3703 N. Richmond Rd., Johnsburg",
+        "city": "Johnsburg",
+        "county": "McHenry",
+        "dates": "Monday, October 19-Friday, October 23; Saturday October 24th; Monday, October 26th-Friday October 30th; Saturday, October 31st; Sunday, November 1st; Monday November 2nd",
+        "category": "standard",
+        "dropbox": true,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.344141508638,
+          42.17793992492
+        ]
+      },
+      "properties": {
+        "name": "Lake in the Hills Village Hall 600 Harvest Gate, Lake in the Hills",
+        "address": "600 Harvest Gate, Lake in the Hills",
+        "city": "Lake in the Hills",
+        "county": "McHenry",
+        "dates": "Monday, October 19-Friday, October 23; Saturday October 24th; Monday, October 26th-Friday October 30th; Saturday, October 31st; Sunday, November 1st; Monday November 2nd",
+        "category": "standard",
+        "dropbox": true,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.267532701956,
+          42.32416589113
+        ]
+      },
+      "properties": {
+        "name": "McHenry City Hall 333 S. Green St., McHenry",
+        "address": "333 S. Green St., McHenry",
+        "city": "McHenry",
+        "county": "McHenry",
+        "dates": "Monday, October 19-Friday, October 23; Saturday October 24th; Monday, October 26th-Friday October 30th; Saturday, October 31st; Sunday, November 1st; Monday November 2nd",
+        "category": "standard",
+        "dropbox": false,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.300964250686,
+          42.278117006192
+        ]
+      },
+      "properties": {
+        "name": "Nunda Township Office 3510 Bay Rd., Crystal Lake",
+        "address": "3510 Bay Rd., Crystal Lake",
+        "city": "Crystal Lake",
+        "county": "McHenry",
+        "dates": "Monday, October 19-Friday, October 23; Saturday October 24th; Monday, October 26th-Friday October 30th; Saturday, October 31st; Sunday, November 1st; Monday November 2nd",
+        "category": "standard",
+        "dropbox": false,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.431819532669,
+          42.1647188472
+        ]
+      },
+      "properties": {
+        "name": "Huntley Park District",
+        "address": "12015 Mill St., Huntley",
+        "city": "Huntley",
+        "county": "McHenry",
+        "dates": "Monday, October 19-Friday, October 23; Saturday October 24th; Monday, October 26th-Friday October 30th; Saturday, October 31st",
+        "category": "standard",
+        "dropbox": false,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.346428146009,
+          42.161311846523
+        ]
+      },
+      "properties": {
+        "name": "Algonquin Library",
+        "address": "2600 Harnish Dr., Algonquin",
+        "city": "Algonquin",
+        "county": "McHenry",
+        "dates": "Monday, October 19-Friday, October 23; Saturday October 24th; Monday, October 26th-Friday October 30th; Saturday, October 31st",
+        "category": "standard",
+        "dropbox": false,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.253832129543,
+          42.204180682328
+        ]
+      },
+      "properties": {
+        "name": "Cary Park District",
+        "address": "255 Briargate Rd., Cary",
+        "city": "Cary",
+        "county": "McHenry",
+        "dates": "Monday, October 19-Friday, October 23; Saturday October 24th; Monday, October 26th-Friday October 30th; Saturday, October 31st",
+        "category": "standard",
+        "dropbox": false,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.613583814443,
+          42.407419408328
+        ]
+      },
+      "properties": {
+        "name": "Dunham Township Office",
+        "address": "107 Airport Rd., Harvard",
+        "city": "Harvard",
+        "county": "McHenry",
+        "dates": "Monday, October 19-Friday, October 23; Monday, October 26th-Friday October 30th; Saturday, October 31st",
+        "category": "standard",
+        "dropbox": true,
+        "source": "census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.607860622388,
+          42.250114188144
+        ]
+      },
+      "properties": {
+        "name": "Marengo City Hall",
+        "address": "132 E Prairie St., Marengo",
+        "city": "Marengo",
+        "county": "McHenry",
+        "dates": "Monday, October 19-Friday, October 23; Monday, October 26th-Friday October 30th; Saturday, October 31st",
+        "category": "standard",
+        "dropbox": false,
+        "source": "census"
+      }
+    }
+  ]
+}
