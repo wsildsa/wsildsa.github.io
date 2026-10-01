@@ -27,7 +27,7 @@ We are excited to fight alongside Guillermo to achieve affordable sustainable ho
 {% include comp-button.html text="Visit Guillermo's Linktree" link="https://linktr.ee/Guillermoforaurora?utm_source=wsildsa_site" %}
 
 # Overview of the WSIL DSA Endorsement Process
-Our members democratically decide on campaigns we endorse in each election cycles.  The process below roughly outlines the process.
+Our members democratically decide on campaigns we endorse in each election cycles.  The process below outlines the process.
 
 The WSILDSA Politcal Committee shall execute the following process for each election race in which it chooses to participate: 
 
