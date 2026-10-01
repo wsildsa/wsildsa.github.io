@@ -1,6 +1,6 @@
 ---
 lang-ref: electoral
-title: Electoral Working Group
+title: WSILDSA Political Committee
 description: 
 ---
 
