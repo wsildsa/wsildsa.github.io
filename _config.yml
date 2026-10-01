@@ -9,6 +9,7 @@ chapter:
   header-logo-png-fallback: assets/images/wsil-logo.png # 360px square recommended
   background-logo-svg: assets/images/wsil-logo.svg
   background-logo-png-fallback: # 1440px square recommended
+  donation-link: "https://checkout.square.site/merchant/MLPS9ED32AXE5/checkout/X54OFCD66UB54LL7FVBHBKBY"
 google_analytics:
 google_search_console_verification: "aBtC59pBF-AKCfQ65x2Jp6Yb4DqvI6sHUaBS14H0O4w"
 teamup: cb7ef970fd2b7b1a85acd5a8a2ef6d7f77477648b0963c29c629391742f24c5a

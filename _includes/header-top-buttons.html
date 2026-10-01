@@ -10,7 +10,7 @@
 </div>
 <div id="top-buttons">
 	<div id="donate">
-		{% assign donateURL = "https://square.link/u/xZNjgIVi" %}
+		{% assign donateURL = site.chapter.donation-link %}
 		<a href="{{ donateURL }}">{{ "Donate" | markdownify | remove: "<p>" | remove: "</p>" | strip_newlines }}</a>
 	</div>
 </div>
