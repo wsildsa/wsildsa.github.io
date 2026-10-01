@@ -24,6 +24,8 @@ Guillermo has been an active cadre member of the chapter for over a year. Guille
 
 We are excited to fight alongside Guillermo to achieve affordable sustainable housing, protections for our immigrant neighbors, and passing progressive tax revenues in the city of Aurora.
 
+{% include comp-button.html text="Visit Guillermo's Linktree" link="https://linktr.ee/Guillermoforaurora?utm_source=wsildsa_site" %}
+
 # Overview of the WSIL DSA Endorsement Process
 Our members democratically decide on campaigns we endorse in each election cycles.  The process below roughly outlines the process.
 
