@@ -1,6 +1,6 @@
 ---
 lang-ref: guillermo-endorsement
-title: "WSILDSA endorses Guillermo Rodriguez for Alderman-At-Large in Aurora, IL"
+title: "WSILDSA endorses Guillermo Rodriguez for Alderman in Aurora, IL"
 description: October 1st, 2026
 image: assets/images/guillermoblogcover.png
 image-description:
