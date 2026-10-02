@@ -30,6 +30,11 @@ elements:
         default: updates
         en: updates
   - page:
+      en: Voter Information
+      url:
+        default: voter-information
+        en: voter-information
+  - page:
       en: Electoral
       url:
         default: electoral
