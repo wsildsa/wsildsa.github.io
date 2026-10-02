@@ -16,13 +16,25 @@ Ben believes in creating an Illinois where all residents can afford the basic ne
 
 {% include comp-button.html text="Visit Ben's Site" link="https://www.mcadamsforil.com/" %}
 
+## Guillermo Rodriguez for Alderman-At-Large in Aurora, IL
+![WSILDSA endorses Guillermo Rodriguez for Alderman-At-Large in Aurora, IL](assets/images/Guillermo_Blog_Endorsement.png)
+We are proud to endorse West Suburban IL Democratic Socialist of America member, Guillermo Rodriguez for alderman-at-large in Aurora, Illinois.
+
+Guillermo has been an active cadre member of the chapter for over a year. Guillermo has consistently demonstrated his excellent leadership skills and dedication to the working class.  And Guillermo can't be bought as he's commited to not taking any Corporate PAC, Shadow PAC, or Special Interest Money.
+
+We are excited to fight alongside Guillermo to achieve affordable sustainable housing, protections for our immigrant neighbors, and passing progressive tax revenues in the city of Aurora.
+
 # Overview of the WSIL DSA Endorsement Process
 Our members democratically decide on campaigns we endorse in each election cycles.  The process below roughly outlines the process.
 
-1. Candidates seeking endorsement must fill out and return a candidate questionnaire to the Electoral Working Group.  The questionnaire can be requested by emailing the WSIL DSA Electoral Working Group at [wsil.electoral@proton.me](mailto:wsil.electoral@proton.me).
+The WSILDSA Political Committee will...
 
-2. The Electoral Working Group reviews candidate questionnaires and follows up with the candidate as needed.
+1. Solicit questionnaires from all ideologically-aligned candidates in the race.
+2. Accept completed questionnaires from all candidates interested in seeking an endorsement.
+3. At a set date, review all complete questionnaires together as a committee, flagging any concerns or follow-up inquiries for the candidate(s).
+4. If necessary, follow-up with the candidate(s) regarding any additional clarification.
+5. As a committee, decide whether the questionnaire(s) should be advanced to a chapter-wide vote and whether an endorsement shall be recommended by the committee for each candidate.
+6. CentComm may review the questionnaire and any notes and make its own recommendation to the chapter. 
+7. If applicable, present the questionnaire(s) and recommendation(s) to the full WSIL chapter for a vote on the final recommendation.
 
-3. The Electoral Working Group then votes on whether to advance interviewed candidates to the general membership for a vote on endorsement.  If so, the candidate will be invited to the next general chapter meeting to give their pitch to the general membership and answer any questions from the Electoral Working Group and membership.
-
-4. Finally, the entire chapter votes on endorsement, after which candidates are notified of the result.
+If you are a candidate interested in seeking WSILDSA's endorsement, you may request a questionairre at the following email address: [wsil.electoral@proton.me](mailto:wsil.electoral@proton.me).
