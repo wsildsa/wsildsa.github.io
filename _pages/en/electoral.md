@@ -20,7 +20,7 @@ Ben believes in creating an Illinois where all residents can afford the basic ne
 ![WSILDSA endorses Guillermo Rodriguez for Alderman-At-Large in Aurora, IL](assets/images/Guillermo_Blog_Endorsement.png)
 We are proud to endorse West Suburban IL Democratic Socialist of America member, Guillermo Rodriguez for alderman-at-large in Aurora, Illinois.
 
-Guillermo has been an active cadre member of the chapter for over a year. Guillermo has consistently demonstrated his excellent leadership skills and dedication to the working class.  And Guillermo can't be bought as he's commited to not taking any Corporate PAC, Shadow PAC, or Special Interest Money.
+Guillermo has been an active cadre member of the chapter for over a year. Guillermo has consistently demonstrated his excellent leadership skills and dedication to the working class.  And Guillermo can't be bought as he's committed to not taking any Corporate PAC, Shadow PAC, or Special Interest Money.
 
 We are excited to fight alongside Guillermo to achieve affordable sustainable housing, protections for our immigrant neighbors, and passing progressive tax revenues in the city of Aurora.
 
