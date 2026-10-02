@@ -4,7 +4,7 @@ title: Voting Information for Midterms 2026
 description: 
 ---
 
-WSILDSA has created a Voting Information Guide below to help you vote in this election. Below, you will find voting locations with information including an interactive map, mail-in voting, and resources
+WSILDSA has created a Voting Information Guide below to help you vote in this election. Below, you will find voting locations with information including an interactive map, mail-in voting, and resources to help you get registered.
 
 **Every vote counts.** Victory for candidates has been determined by a handful of votes or a small margin meaning your vote can sway in the future you want to see. 
 
