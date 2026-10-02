@@ -29,7 +29,7 @@ We are excited to fight alongside Guillermo to achieve affordable sustainable ho
 # Overview of the WSIL DSA Endorsement Process
 Our members democratically decide on campaigns we endorse in each election cycles.  The process below roughly outlines the process.
 
-The WSILDSA Political Committee will...
+The WSILDSA Politcal Committee shall execute the following process for each election race in which it chooses to participate: 
 
 1. Solicit questionnaires from all ideologically-aligned candidates in the race.
 2. Accept completed questionnaires from all candidates interested in seeking an endorsement.
