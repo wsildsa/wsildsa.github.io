@@ -21,20 +21,34 @@ elements:
         default: events
         en: events
   - page:
+      en: Merch
+      url:
+        default: https://west-suburban-il-dsa-nfp.square.site/
+  - page:
       en: News
       url:
         default: updates
         en: updates
-
-# Groups
-#  - group:
-#    en: Another group
-#    es: Otro grupo
-#    pages:
-#      - page:
-#          en: Use Markdown *styling*
-#          es: Utiliza Markdown *estilo*
-#          url:
-#            en: another-page
-#            es: es/otra-pagina
-        
+  - group:
+    en: Voter Information
+    pages:
+    - page:
+        en: English
+        url:
+          default: voter-information
+          en: voter-information
+    - page:
+        en: Español
+        url:
+          default: es-voter-information
+          en: es-voter-information
+  - page:
+      en: Electoral
+      url:
+        default: electoral
+        en: electoral
+  - page:
+      en: Contact
+      url:
+        default: contact
+        en: contact
