@@ -2,7 +2,7 @@
 lang-ref: casten-blog
 title: "Sean Casten says we’re arsonists, but he smells like gasoline."
 description: October 3rd, 2026 -- Maxine Wolf, Co-Chair of the West Suburban Illinois Democratic Socialists of America
-image-thumbnail: assets/images/casten-blog/AN Social Share.png
+image-thumbnail: assets/images/casten-blog/thumbnail.png
 image: 
 image-description:
 ---
