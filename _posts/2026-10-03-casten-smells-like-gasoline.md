@@ -23,7 +23,7 @@ DSA, on the other hand, is dedicated to transforming our society to win what wor
 So *why* is the house burning?
 
 ![][image2]  
-Fox7 Austin https\://www\.fox7austin.com/news/billionaires-trump-inauguration-2025
+[Fox7 Austin](https\://www\.fox7austin.com/news/billionaires-trump-inauguration-2025)
 
 Because politicians like Sean Casten are bought and paid for by the same corporate interests that prop up MAGA. Remember Elon Musk (SpaceX), Jeff Bezos (Amazon), and Sundar Pichai (Alphabet) behind Trump at his inauguration? Sean Casten has also taken money from [Alphabet](https://www.fec.gov/data/committee/C00428623/?tab=spending), [SpaceX](https://www.fec.gov/data/committee/C00411116/?tab=spending&cycle=2024), and [Amazon](https://www.fec.gov/data/committee/C00360354/?cycle=2024&tab=spending). These companies make up a part of the [\$649,250 in corporate money he’s taken in his career](https://integrityindex.us/candidate/sean-casten).
 
