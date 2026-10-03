@@ -4,6 +4,14 @@
 
 [Staging Site](https://wsildsa-staging.netlify.app)
 
+## Development (nixos)
+Run `nix-shell` in the directory.  If the gem bundle changes, you may need to rebuild the gemset.
+
+```bash
+nix-env -iA bundix
+bundix -l
+```
+
 ## Development
 
 ### Setup
