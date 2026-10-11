@@ -57,7 +57,12 @@
 {% endif %}
 
 <meta property="og:site_name" content="{{ siteName | strip_newlines }}" />
-<meta property="og:image" content="{{ page.image | absolute_url }}" />
+
+{% if page.image == site.defaults[0].values.image and page.image-thumbnail %}
+	<meta property="og:image" content="{{ page.image-thumbnail | absolute_url }}" />
+{% else %}
+	<meta property="og:image" content="{{ page.image | absolute_url }}" />
+{% endif %}
 
 {% if page.image == "assets/images/og-image.png" %}
 	<!-- Small Twitter preview for default logo -->
