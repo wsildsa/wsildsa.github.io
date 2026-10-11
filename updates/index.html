@@ -9,7 +9,7 @@ title: Updates
   <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
 
   <!-- Image -->
-  {% if post.image and post.image != ""%}
+  {% if post.image != site.defaults[0].values.image %}
     {% if site.jekyll_webp_installed %}
       <picture>
         <source srcset="{{ post.image | relative_url | replace:'.png','.webp' | replace:'.jpg','.webp' }}" type="image/webp">
