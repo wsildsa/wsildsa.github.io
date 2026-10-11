@@ -1,12 +1,15 @@
 <div id="headline-image-container">
 	{% if include.hide == Null %}
-		{% if site.jekyll_webp_installed %}
-			<picture>
-				<source srcset="{{ include.image | relative_url | replace:'.png','.webp' | replace:'.jpg','.webp' }}" type="image/webp">
-				<img id="headline-image-webp" class="cover-background" loading="lazy" src="{{ include.image | relative_url }}" />
-			</picture>
-		{% else %}
-			<div id="headline-image" class="cover-background" style="background-image: url('{{ include.image | relative_url }}');"></div>
+
+		{% if page.image != site.defaults[0].values.image and page.image != "" %}
+			{% if site.jekyll_webp_installed %}
+				<picture>
+					<source srcset="{{ include.image | relative_url | replace:'.png','.webp' | replace:'.jpg','.webp' }}" type="image/webp">
+					<img id="headline-image-webp" class="cover-background" loading="lazy" src="{{ include.image | relative_url }}" />
+				</picture>
+			{% else %}
+				<div id="headline-image" class="cover-background" style="background-image: url('{{ include.image | relative_url }}');"></div>
+			{% endif %}
 		{% endif %}
 
 		{% if include.description or include.credit %}
