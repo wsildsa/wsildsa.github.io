@@ -11,6 +11,7 @@
 				<div id="headline-image" class="cover-background" style="background-image: url('{{ include.image | relative_url }}');"></div>
 			{% endif %}
 		{% elsif include.image-thumbnail %}
+			{% if site.jekyll_webp_installed %}
 				<picture>
 					<source srcset="{{ include.image-thumbnail | relative_url | replace:'.png','.webp' | replace:'.jpg','.webp' }}" type="image/webp">
 					<img id="headline-image-webp" class="cover-background" loading="lazy" src="{{ include.image-thumbnail | relative_url }}" />
