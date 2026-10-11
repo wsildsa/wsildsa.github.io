@@ -3,6 +3,7 @@ lang-ref: casten-blog
 title: "The Sunday Friend Is Not Your Friend"
 description: October 11th, 2026
 image-thumbnail: assets/images/disco-blog/thumbnail.png
+image: assets/images/disco-blog/thumbnail.png
 ---
 
 ## A Critique of Centrist Politics Through the Lens of *Disco Elysium*
