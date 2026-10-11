@@ -12,7 +12,7 @@
 {% capture colorBackground %}
 	<div class="color-background"></div>
 {% endcapture %}
-{% if item.image != site.defaults[0].values.image %}
+{% if item.image != site.defaults[0].values.image or item.image-thumbnail %}
 	{% assign tileClass = "tile-container-image" %}
 	{% assign background = imageBackground %}
 {% else %}
