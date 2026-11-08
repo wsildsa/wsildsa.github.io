@@ -8,7 +8,7 @@ image-thumbnail: assets/images/blog-congrats-ben/thumbnail.png
 **Congratulations to Ben McAdams\!**  
 *And why I’ve got the blue wave blues*
 
-![](/assets/images/blog-congrats-ben/image1.png)
+![](/assets/images/blog-congrats-ben/image1.png){:style="display:block; margin:0 auto;"}
 
 Comrades, I’m not sure about you, but I had a great night on November 3rd.
 
@@ -20,7 +20,7 @@ As a Senator, Ben will work to advance a socialist agenda in Springfield. He wil
 
 It was so special to spend election night with my comrades. The energy that night was electric as friends and comrades watched results come in, not only from progressives in Illinois and Michigan but also democrats in Texas and Mississippi. But I can’t help but have mixed emotions about our blue wave.
 
-![](/assets/images/blog-congrats-ben/image2.png)
+![](/assets/images/blog-congrats-ben/image2.png){:style="display:block; margin:0 auto;"}
 
 ### I’m DSA because the Democratic Party *isn’t enough*.
 
@@ -32,14 +32,16 @@ We want to both stop the worst injustices currently happening and win the world 
 
 The ultimate issue is that the Democratic Party remains largely captured by the same capitalists who finance the Republicans. If you buy both parties, then you don’t need to be worried about vote totals. 
 
-![](/assets/images/blog-congrats-ben/image3.png)
+![](/assets/images/blog-congrats-ben/image3.png){:style="display:block; margin:0 auto;"}
 
 Of course, you and I are sweating vote totals because I know there are some who are not bought. It’s easy to see the crest of the blue wave: anyone can google the new makeup of Congress, the Illinois General Assembly, county boards, etc. Working people are being carried by that wave too – Ben McAdams is just one example. But it’s much harder to see how far we rose.
 
 In DSA, we take endorsements seriously. We are very aware of the challenges of being a socialist in a government that has been captured by corporate interest via lobbyists, bought politicians, or Democratic party bosses, and legislation hostile to democratized control of the economy. That’s why we show up with people-power to support our candidates so that they remember to pick up our calls and co-govern with us once elected. We call it “the DSA difference.” [So let’s look at the results](https://2026.electoral.dsausa.org/).
 
-![](/assets/images/blog-congrats-ben/image4.png)
+![](/assets/images/blog-congrats-ben/image4.png){:style="display:block; margin:0 auto;"}
+<div align="center">
 <small>*Photo Credit: Jules*</small>
+</div>
 
 On Tuesday, the DSA elected 11 DSA-endorsed socialists to Congress. We elected Ben McAdams and 52 other DSA-endorsed socialists to state legislatures. We passed 29 DSA-endorsed statewide ballot initiatives and 10 DSA-endorsed local ballot initiatives. And we elected 45 DSA-endorsed candidates to local office. 
 
@@ -53,8 +55,10 @@ However, the issue is that the most visible divide in politics is between the ol
 
 However, we also function as an independent body. We allocate our resources according to the will of our members rather than the beck and call of party bosses. And we are developing our own base of voters, donors, staff, candidates, and organizers apart from the party apparatus. This process of slow independence-building is known to DSA sickos as “the dirty break.”
 
-![](/assets/images/blog-congrats-ben/image5.png)
+![](/assets/images/blog-congrats-ben/image5.png){:style="display:block; margin:0 auto;"}
+<div align="center">
 <small>*Photo Credit: Jules*</small>
+</div>
 
 The question is: when? When can we be truly independent? My answer is that we must be confident that we will precipitate a national political realignment. One option some of my comrades favor is to realign the Democratic Party into a proletarian party. They say it is the path of least resistance: the Party already has a base of voters, organization, reputation, and expertise. On a practical level, let me point out: just as there is no lever to decisively remove the DSA from the Democratic Party, we have no lever to decisively remove corporate candidates from the Democratic Party. The Party might already have a structure, but the structure that exists is essentially a caucus of elected officials and their hangers-on organizing in their own interest to maintain their positions. That is precisely the opposite of what we need\! The Party has a base of voters (and donors), but are they organized to want transformation of the economy and society? Not yet: it is the socialist movement’s work to show them what a transformed society could look like. And as for expertise, the Party has is the “wisdom” of the consultant telling Kamala Harris to campaign with Liz Cheney.
 
@@ -64,7 +68,9 @@ We can be an independent party once we've built enough power to be confident in 
 
 Each member builds our pool of collective energy. Each door knocked gets us closer to an electoral win. Each leader developed brings our message to new communities. Each time ICE activity is monitored or a comrade is trained our street power grows. Each candidate elected gets us closer to a majority. And each reform passed chips away at the massive edifice the billionaire capitalist class has arrayed against us. We have a long way to go, but every day the lines of the people move forward.
 
-![](/assets/images/blog-congrats-ben/image6.png)
+![](/assets/images/blog-congrats-ben/image6.png){:style="display:block; margin:0 auto;"}
+<div align="center">
 <small>*Photo Credit: Jules*</small>
+</div>
 
 Congratulations Ben. I’ll toast to the next one. And the next, and the next, and the next, until the world belongs to us. I’ll be seeing you, comrades.  
