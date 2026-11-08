@@ -1,7 +1,7 @@
 ---
 lang-ref: congrats-ben-blog
 title: "Congrats to Ben McAdams!"
-description: November 8th, 2026
+description: November 8th, 2026 -- Maxine Wolf, Co-Chair of the West Suburban Illinois Democratic Socialists of America
 image-thumbnail: assets/images/blog-congrats-ben/thumbnail.png
 ---
 
