@@ -2,7 +2,7 @@
 lang-ref: abolish-ice
 title: Abolishing ICE Is Just the First Step
 description: November 18th, 2026
-image-thumbnail: assets/images/blog-abolish-ice/thumbnail.jpg
+image-thumbnail: assets/images/blog-abolish-ice/thumbnail.png
 ---
 
 # Abolishing ICE Is Just the First Step
