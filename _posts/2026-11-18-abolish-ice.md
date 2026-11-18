@@ -35,9 +35,9 @@ The effects of the terror brought by ICE are broadcast on a near-daily basis. Wh
 
 While the Trump administration is currently weaponizing these agencies for public display, the use of immigration enforcement as a tool to uphold the oppressive systems we live under has been a constant under administrations of both parties. The scope and scale of the failures of ICE and immigration enforcement in the U.S. are deeply ingrained in these institutions. It will take structural, not just institutional change, to end the terror these institutions bring to our streets and to bring about a more fair and just world. Not a world where capital is protected at all costs, but one predicated on the idea that everyone deserves to live a safe and prosperous life, and one centered around people’s humanity.
 
-### [Join WSILDSA](https://wsil.dsachapters.org/) today to create not only a better Illinois, but a better and safer world. 
+### [<u>**Join WSILDSA**</u>](https://wsil.dsachapters.org/) today to create not only a better Illinois, but a better and safer world. 
 
 ---
 
-[^1]: https\://www\.npr.org/2026/06/09/nx-s1-5851664/house-reconciliation-vote-immigration-enforcement-ice-border-patrol
-[^2]: https\://www\.cbsnews.com/news/ice-electric-shock-glove-16-7-million-contract/
+[^1]: <https\://www\.npr.org/2026/06/09/nx-s1-5851664/house-reconciliation-vote-immigration-enforcement-ice-border-patrol>
+[^2]: <https\://www\.cbsnews.com/news/ice-electric-shock-glove-16-7-million-contract/>
